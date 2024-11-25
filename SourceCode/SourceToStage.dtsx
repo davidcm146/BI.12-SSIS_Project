@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="SourceToStage"
   DTS:PackageType="5"
-  DTS:VersionBuild="119"
-  DTS:VersionGUID="{41579167-EE06-407F-BC2F-A53C0308857B}">
+  DTS:VersionBuild="127"
+  DTS:VersionGUID="{F0436D74-AA42-4162-892A-9D6322CA2037}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -394,7 +394,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeBsVAHGLm0GZDKY0V0n7UgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABHuCxWLuA3C2FZsaaNuIsFrGqqjt2zPEyQ2zrRujt3cQAAAAAOgAAAAAIAACAAAAA1EerQ5OQusPuKQtVQ/UoQieFig/oX0cFyNAgEZBPRQyAAAACt6pz2/zqW5zbnRDQdu6AVzvsJwap6kfSfsnXo8pvSwkAAAADZagJeienvRLDHvcBEf+fvDC2R+Yzn9OJbTr7jCARUkriypnbamMnjoi8/6e7Vl3vNx6ef5aoYMgnYQhnBGBF6</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABthWaGgemA8qufb9rUg83HgMJruCi+BnYvkbhQsEIoEQAAAAAOgAAAAAIAACAAAABDcs/VBKaUUDOBbJT6/ncjoKw0Sr8KW3dK7v/feghrnyAAAAA1sZLPMQtCjIFNXwvCpyt/j/tVzjijdr8OZe2zsM2qPkAAAADXNNb5i9HbUgaGof+7wARK/+dRm4iejfrwFjF2DmS1ELjxStK89qb9eUyzze26tMjvAfyFDVYTSdUzmzhtI7an</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -411,7 +411,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeBsVAHGLm0GZDKY0V0n7UgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAWSnDn9u3zE9hxYzTA4hZNeETdwnPeQ21HliR7pAK2WAAAAAAOgAAAAAIAACAAAABIwKN1ItzdFlAV1fezydwjkwnNivswEdilTDfIxup7riAAAADzBdfkKuxEVYjeOXvAe3wWchHRyrfwxL6PZCPpoVy7D0AAAAADjY9dNo5UoHdv+K0VmFrl8FewimpKSJkVfE1MzmrWHh2dEZP0s8uQbgzIToovE8doHI2WLFY5qcgg3Z4npwI5</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAcbjGeDkEn6UAyOiMFFpY7CA1xMk7udK2xOsVwH4ZrGwAAAAAOgAAAAAIAACAAAAD3qrYKJf93DG9LUO28wRt+pWDfibOro7MzoUthi0f5fyAAAADuF8TA879b5Ao5C6W4l935dndUH7eehneLBlp/At1VsEAAAADyzESH+nWnqiTbGc2OXZy7Dme2nvPzlU0xX/GJfR6Yf5pfZAZDHZqfap4OKzmxUrHI6et/vq+gziHbCwHzJxWz</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -428,7 +428,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeBsVAHGLm0GZDKY0V0n7UgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADjLPBR4i66Rj0s596izs6x+PmLEtI0dLm669ZsBc3vCAAAAAAOgAAAAAIAACAAAADobT9uaqx7DKzn11/2ZtgYMSqPQkTSS0pcrobut/ukziAAAABEEsYCOo9n6ce89O7VvnggasD9O4WtQVPIbZuXyfd5UEAAAAB1SfCOzN8dwdWIxZLS3Iy+io77cQSteeHYCgkF31sQMv14qrWvhebDOd04mfL0FdNoWl0UW4UI5/AmdwPe+k7o</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABQqNRUTVUZOq/w6ZdrjyVT0k46o1NWZow4+NyxqpxDAwAAAAAOgAAAAAIAACAAAADjbZlTuIsZ0iRSbkQCIth2RWh3VMwf8EXzAtIiSADSkiAAAADTkmof/cBa8SZ8xO/UnhkRlyHy6rfab6ILVyeaiRl7+UAAAADxP0lze5DInj6BGkpiIZI6bVEEBTqP3PNel5ByN31hYPjDw9+R8LWNgozDvA3uQh0vdMkEayr0wOp0EXx77kvZ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1881,6 +1881,19 @@
                       cachedName="Last Updated"
                       externalMetadataColumnId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
                       lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -1937,6 +1950,15 @@
                       refId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
                       dataType="dbTimeStamp"
                       name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -2036,6 +2058,294 @@
                       refId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
                       dataType="i4"
                       lineageId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\Derived Column"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived Column"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">2</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">2</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2021"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2021"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\Derived Column 1"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived Column 1"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">3</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">3</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2022"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2022"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\Derived Column 2"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived Column 2"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">4</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">4</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2023"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2023"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -2263,6 +2573,39 @@
                           name="NewSortKeyPosition">0</property>
                       </properties>
                     </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Sort.Inputs[Sort Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      lineageId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Sort.Inputs[Sort Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      lineageId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -2437,6 +2780,33 @@
                           name="SortColumnId">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]}</property>
                       </properties>
                     </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]"
+                      name="SourceID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]"
+                      dataType="wstr"
+                      length="17"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]"
+                      name="SourceName">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]}</property>
+                      </properties>
+                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -2452,6 +2822,7 @@
               <inputs>
                 <input
                   refId="Package\AQI Flow\Union All.Inputs[Union All Input 1]"
+                  hasSideEffects="true"
                   name="Union All Input 1">
                   <inputColumns>
                     <inputColumn
@@ -2459,7 +2830,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="State Name"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[State Name]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[State Name]">
                       <properties>
                         <property
                           containsID="true"
@@ -2473,7 +2844,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="county Name"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[county Name]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[county Name]">
                       <properties>
                         <property
                           containsID="true"
@@ -2486,7 +2857,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[State Code]"
                       cachedDataType="ui4"
                       cachedName="State Code"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[State Code]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[State Code]">
                       <properties>
                         <property
                           containsID="true"
@@ -2499,7 +2870,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[County Code]"
                       cachedDataType="ui4"
                       cachedName="County Code"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[County Code]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[County Code]">
                       <properties>
                         <property
                           containsID="true"
@@ -2512,7 +2883,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Date]"
                       cachedDataType="dbDate"
                       cachedName="Date"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Date]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Date]">
                       <properties>
                         <property
                           containsID="true"
@@ -2525,7 +2896,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[AQI]"
                       cachedDataType="ui4"
                       cachedName="AQI"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[AQI]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[AQI]">
                       <properties>
                         <property
                           containsID="true"
@@ -2539,7 +2910,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Category"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Category]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Category]">
                       <properties>
                         <property
                           containsID="true"
@@ -2549,25 +2920,11 @@
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Defining Parameter]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Defining Parameter"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Defining Parameter]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Defining Parameter]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Defining Site]"
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Defining Site"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
                       <properties>
                         <property
                           containsID="true"
@@ -2580,7 +2937,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Number of Sites Reporting]"
                       cachedDataType="ui4"
                       cachedName="Number of Sites Reporting"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
                       <properties>
                         <property
                           containsID="true"
@@ -2593,7 +2950,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Created]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Created"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Created]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Created]">
                       <properties>
                         <property
                           containsID="true"
@@ -2606,13 +2963,236 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[Last Updated]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Last Updated"
-                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
+                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
                       <properties>
                         <property
                           containsID="true"
                           dataType="System.Int32"
                           description="Output column lineage ID"
                           name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]}</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+                <input
+                  refId="Package\AQI Flow\Union All.Inputs[Union All Input 2]"
+                  hasSideEffects="true"
+                  name="Union All Input 2">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[State Name]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[State Name]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[county Name]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[county Name]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[State Code]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[State Code]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[County Code]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[County Code]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Date]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Date]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[AQI]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[AQI]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Category]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Category]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Defining Parameter]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Defining Parameter]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="20"
+                      cachedName="Defining Site"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Defining Site]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Number of Sites Reporting]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Created]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Created]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]}</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
@@ -2628,7 +3208,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="State Name"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[State Name]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[State Name]">
                       <properties>
                         <property
                           containsID="true"
@@ -2642,7 +3222,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="county Name"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[county Name]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[county Name]">
                       <properties>
                         <property
                           containsID="true"
@@ -2655,7 +3235,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[State Code]"
                       cachedDataType="ui4"
                       cachedName="State Code"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[State Code]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[State Code]">
                       <properties>
                         <property
                           containsID="true"
@@ -2668,7 +3248,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[County Code]"
                       cachedDataType="ui4"
                       cachedName="County Code"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[County Code]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[County Code]">
                       <properties>
                         <property
                           containsID="true"
@@ -2681,7 +3261,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[Date]"
                       cachedDataType="dbDate"
                       cachedName="Date"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Date]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Date]">
                       <properties>
                         <property
                           containsID="true"
@@ -2694,7 +3274,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[AQI]"
                       cachedDataType="ui4"
                       cachedName="AQI"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[AQI]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[AQI]">
                       <properties>
                         <property
                           containsID="true"
@@ -2708,7 +3288,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Category"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Category]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Category]">
                       <properties>
                         <property
                           containsID="true"
@@ -2722,7 +3302,7 @@
                       cachedDataType="wstr"
                       cachedLength="50"
                       cachedName="Defining Parameter"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Defining Parameter]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Defining Parameter]">
                       <properties>
                         <property
                           containsID="true"
@@ -2734,9 +3314,9 @@
                     <inputColumn
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[Defining Site]"
                       cachedDataType="wstr"
-                      cachedLength="20"
+                      cachedLength="50"
                       cachedName="Defining Site"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
                       <properties>
                         <property
                           containsID="true"
@@ -2749,7 +3329,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[Number of Sites Reporting]"
                       cachedDataType="ui4"
                       cachedName="Number of Sites Reporting"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
                       <properties>
                         <property
                           containsID="true"
@@ -2762,7 +3342,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[Created]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Created"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Created]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Created]">
                       <properties>
                         <property
                           containsID="true"
@@ -2775,13 +3355,40 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[Last Updated]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Last Updated"
-                      lineageId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
+                      lineageId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
                       <properties>
                         <property
                           containsID="true"
                           dataType="System.Int32"
                           description="Output column lineage ID"
                           name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]}</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
@@ -2789,178 +3396,9 @@
                 </input>
                 <input
                   refId="Package\AQI Flow\Union All.Inputs[Union All Input 4]"
-                  hasSideEffects="true"
-                  name="Union All Input 4">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[State Name]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="State Name"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[State Name]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[State Name]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[county Name]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="county Name"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[county Name]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[county Name]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[State Code]"
-                      cachedDataType="ui4"
-                      cachedName="State Code"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[State Code]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[State Code]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[County Code]"
-                      cachedDataType="ui4"
-                      cachedName="County Code"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[County Code]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[County Code]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Date]"
-                      cachedDataType="dbDate"
-                      cachedName="Date"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Date]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Date]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[AQI]"
-                      cachedDataType="ui4"
-                      cachedName="AQI"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[AQI]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[AQI]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Category]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Category"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Category]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Category]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Defining Site]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="Defining Site"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Defining Site]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Defining Site]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Number of Sites Reporting]"
-                      cachedDataType="ui4"
-                      cachedName="Number of Sites Reporting"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Number of Sites Reporting]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Number of Sites Reporting]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Created]"
-                      cachedDataType="dbTimeStamp"
-                      cachedName="Created"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Created]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Created]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[Last Updated]"
-                      cachedDataType="dbTimeStamp"
-                      cachedName="Last Updated"
-                      lineageId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output].Columns[Last Updated]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\AQI Flow\Union All.Inputs[Union All Input 4].Columns[DefiningParamConverted]"
-                      cachedDataType="wstr"
-                      cachedLength="50"
-                      cachedName="DefiningParamConverted"
-                      lineageId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Output].Columns[DefiningParamConverted]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Defining Parameter]}</property>
-                      </properties>
-                    </inputColumn>
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-                <input
-                  refId="Package\AQI Flow\Union All.Inputs[Union All Input 2]"
                   dangling="true"
                   hasSideEffects="true"
-                  name="Union All Input 2">
+                  name="Union All Input 4">
                   <externalMetadataColumns />
                 </input>
               </inputs>
@@ -3034,6 +3472,17 @@
                       dataType="dbTimeStamp"
                       lineageId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[Last Updated]"
                       name="Last Updated" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceID]"
+                      name="SourceID" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]"
+                      dataType="wstr"
+                      length="17"
+                      lineageId="Package\AQI Flow\Union All.Outputs[Union All Output 1].Columns[SourceName]"
+                      name="SourceName" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -3043,24 +3492,39 @@
           <paths>
             <path
               refId="Package\AQI Flow.Paths[Data Conversion Output]"
-              endId="Package\AQI Flow\Union All.Inputs[Union All Input 4]"
+              endId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]"
               name="Data Conversion Output"
               startId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Output]" />
             <path
-              refId="Package\AQI Flow.Paths[Flat File Source Output]"
+              refId="Package\AQI Flow.Paths[Derived Column Output]"
               endId="Package\AQI Flow\Union All.Inputs[Union All Input 1]"
+              name="Derived Column Output"
+              startId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\AQI Flow.Paths[Derived Column Output1]"
+              endId="Package\AQI Flow\Union All.Inputs[Union All Input 2]"
+              name="Derived Column Output"
+              startId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\AQI Flow.Paths[Derived Column Output2]"
+              endId="Package\AQI Flow\Union All.Inputs[Union All Input 3]"
+              name="Derived Column Output"
+              startId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\AQI Flow.Paths[Flat File Source Output]"
+              endId="Package\AQI Flow\Data Conversion.Inputs[Data Conversion Input]"
               name="Flat File Source Output"
-              startId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output]" />
+              startId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Flat File Source Output1]"
-              endId="Package\AQI Flow\Union All.Inputs[Union All Input 3]"
+              endId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Flat File Source Output2]"
-              endId="Package\AQI Flow\Data Conversion.Inputs[Data Conversion Input]"
+              endId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]"
               name="Flat File Source Output"
-              startId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output]" />
+              startId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Sort Output]"
               endId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input]"
@@ -3106,7 +3570,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{CA594F71-81B1-4267-A88E-37B33725F239}"
-          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES&#xA;               WHERE TABLE_NAME = 'USCounties_Stage' AND TABLE_SCHEMA = 'dbo')&#xA;BEGIN&#xA;    CREATE TABLE dbo.USCounties_Stage (&#xA;        County NVARCHAR(50),&#xA;        CountyASCII NVARCHAR(50),&#xA;        CountyFull NVARCHAR(50),&#xA;        CountyFIPS NVARCHAR(10) PRIMARY KEY,&#xA;        StateID NVARCHAR(2),&#xA;        StateName NVARCHAR(50),&#xA;        Latitude FLOAT,&#xA;        Longitude FLOAT,&#xA;        Population INT&#xA;    );&#xA;END;&#xA;&#xA;IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES&#xA;               WHERE TABLE_NAME = 'AQI_Stage' AND TABLE_SCHEMA = 'dbo')&#xA;BEGIN&#xA;    CREATE TABLE AQI_Stage (&#xA;    StateName NVARCHAR(50),&#xA;    CountyName NVARCHAR(50),&#xA;    StateCode INT,&#xA;    CountyCode INT,&#xA;    Date DATE,&#xA;    AQI INT,&#xA;    Category NVARCHAR(50),&#xA;    DefiningParameter NVARCHAR(50),&#xA;    DefiningSite NVARCHAR(50),&#xA;    NumberOfSitesReporting INT,&#xA;    Created DATETIME,&#xA;    LastUpdated DATETIME,&#xA;    PRIMARY KEY (StateCode, CountyCode, Date)&#xA;);&#xA;END;&#xA;&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES&#xA;               WHERE TABLE_NAME = 'USCounties_Stage' AND TABLE_SCHEMA = 'dbo')&#xA;BEGIN&#xA;    CREATE TABLE USCounties_Stage (&#xA;    County NVARCHAR(50),&#xA;    CountyASCII NVARCHAR(50),&#xA;    CountyFull NVARCHAR(50),&#xA;    CountyFIPS NVARCHAR(10) PRIMARY KEY,&#xA;    StateID NVARCHAR(2),&#xA;    StateName NVARCHAR(50),&#xA;    Latitude FLOAT,&#xA;    Longitude FLOAT,&#xA;    Population INT,&#xA;    SourceID INT,&#xA;    SourceName NVARCHAR(255)&#xA;);&#xA;END;&#xA;&#xA;IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES&#xA;               WHERE TABLE_NAME = 'AQI_Stage' AND TABLE_SCHEMA = 'dbo')&#xA;BEGIN&#xA;    CREATE TABLE AQI_Stage (&#xA;    StateName NVARCHAR(50),&#xA;    CountyName NVARCHAR(50),&#xA;    StateCode INT,&#xA;    CountyCode INT,&#xA;    Date DATE,&#xA;    AQI INT,&#xA;    Category NVARCHAR(50),&#xA;    DefiningParameter NVARCHAR(50),&#xA;    DefiningSite NVARCHAR(50),&#xA;    NumberOfSitesReporting INT,&#xA;    Created DATETIME,&#xA;    LastUpdated DATETIME,&#xA;    SourceID INT,&#xA;    SourceName NVARCHAR(255),&#xA;    PRIMARY KEY (StateCode, CountyCode, Date)&#xA;);&#xA;END;&#xA;&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -3140,7 +3604,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{F8DF6798-CBF8-47E8-AE6B-879C938B2D25}"
-          SQLTask:SqlStatementSource="MERGE DataDefinition_Metadata AS target&#xA;USING (&#xA;    VALUES &#xA;     ('States_NDS', 'StateID_SK', 'INT', 1, 0, 'Primary key, surrogate key'),&#xA;    ('States_NDS', 'StateID_NK', 'NVARCHAR(2)', 0, 1, 'Natural key for the state'),&#xA;    ('States_NDS', 'StateCode', 'INT', 0, 1, 'Unique state code'),&#xA;    ('States_NDS', 'StateName', 'NVARCHAR(50)', 0, 1, 'Name of the state'),&#xA;    ('States_NDS', 'CreatedAt', 'DATETIME', 0, 1, 'Creation timestamp'),&#xA;    ('States_NDS', 'UpdatedAt', 'DATETIME', 0, 1, 'Last update timestamp'),&#xA;    ('Counties_NDS', 'CountyID_SK', 'INT', 1, 0, 'Primary key, surrogate key'),&#xA;    ('Counties_NDS', 'CountyCode', 'INT', 0, 1, 'Code for the county'),&#xA;    ('Counties_NDS', 'Latitude', 'FLOAT', 0, 1, 'Latitude of the county'),&#xA;    ('Counties_NDS', 'Longitude', 'FLOAT', 0, 1, 'Longitude of the county'),&#xA;    ('Counties_NDS', 'Population', 'INT', 0, 1, 'Population of the county'),&#xA;    ('Counties_NDS', 'StateID', 'INT', 0, 0, 'Foreign key to States_NDS'),&#xA;    ('Counties_NDS', 'CountyASCII', 'NVARCHAR(50)', 0, 1, 'ASCII name of the county'),&#xA;    ('Counties_NDS', 'CountyFull', 'NVARCHAR(50)', 0, 1, 'Full name of the county'),&#xA;    ('Counties_NDS', 'CountyFIPS', 'NVARCHAR(10)', 0, 1, 'Federal Information Processing Standard (FIPS) code'),&#xA;    ('Counties_NDS', 'CreatedAt', 'DATETIME', 0, 1, 'Creation timestamp'),&#xA;    ('Counties_NDS', 'UpdatedAt', 'DATETIME', 0, 1, 'Last update timestamp'),&#xA;    ('AQI_Records_NDS', 'RecordID_SK', 'INT', 1, 0, 'Primary key, surrogate key'),&#xA;    ('AQI_Records_NDS', 'CountyID', 'INT', 0, 0, 'Foreign key to Counties_NDS'),&#xA;    ('AQI_Records_NDS', 'Date', 'DATE', 0, 1, 'Date of AQI measurement'),&#xA;    ('AQI_Records_NDS', 'AQI', 'INT', 0, 1, 'Air Quality Index value'),&#xA;    ('AQI_Records_NDS', 'Category', 'NVARCHAR(50)', 0, 1, 'AQI category'),&#xA;    ('AQI_Records_NDS', 'DefiningParameter', 'NVARCHAR(50)', 0, 1, 'Parameter defining AQI'),&#xA;    ('AQI_Records_NDS', 'DefiningSite', 'NVARCHAR(50)', 0, 1, 'Site defining AQI'),&#xA;    ('AQI_Records_NDS', 'NumberOfSitesReporting', 'INT', 0, 1, 'Number of sites reporting AQI'),&#xA;    ('AQI_Records_NDS', 'Created', 'DATETIME', 0, 1, 'Creation timestamp in AQI table'),&#xA;    ('AQI_Records_NDS', 'LastUpdated', 'DATETIME', 0, 1, 'Last update timestamp in AQI table'),&#xA;    ('AQI_Records_NDS', 'CreatedAtTable', 'DATETIME', 0, 1, 'Creation timestamp in database table'),&#xA;    ('AQI_Records_NDS', 'UpdatedAtTable', 'DATETIME', 0, 1, 'Last update timestamp in database table')&#xA;) AS source (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription)&#xA;ON target.TableName = source.TableName AND target.ColumnName = source.ColumnName&#xA;&#xA;WHEN MATCHED THEN &#xA;    UPDATE SET &#xA;        target.DataType = source.DataType,&#xA;        target.IsPrimaryKey = source.IsPrimaryKey,&#xA;        target.IsNullable = source.IsNullable,&#xA;        target.ColumnDescription = source.ColumnDescription,&#xA;        target.LastUpdated = GETDATE()&#xA;&#xA;WHEN NOT MATCHED BY TARGET THEN&#xA;    INSERT (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription, Created, LastUpdated)&#xA;    VALUES (source.TableName, source.ColumnName, source.DataType, source.IsPrimaryKey, source.IsNullable, source.ColumnDescription, GETDATE(), GETDATE());&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="MERGE DataDefinition_Metadata AS target&#xA;USING (&#xA;    VALUES &#xA;     ('USCounties_Stage', 'County', 'NVARCHAR(50)', 0, 1, 'Name of the county'),&#xA;    ('USCounties_Stage', 'CountyASCII', 'NVARCHAR(50)', 0, 1, 'ASCII name of the county'),&#xA;    ('USCounties_Stage', 'CountyFull', 'NVARCHAR(50)', 0, 1, 'Full name of the county'),&#xA;    ('USCounties_Stage', 'CountyFIPS', 'NVARCHAR(10)', 1, 0, 'Federal Information Processing Standard (FIPS) code'),&#xA;    ('USCounties_Stage', 'StateID', 'NVARCHAR(2)', 0, 0, 'State ID as a foreign key'),&#xA;    ('USCounties_Stage', 'StateName', 'NVARCHAR(50)', 0, 1, 'Name of the state'),&#xA;    ('USCounties_Stage', 'Latitude', 'FLOAT', 0, 1, 'Latitude of the county'),&#xA;    ('USCounties_Stage', 'Longitude', 'FLOAT', 0, 1, 'Longitude of the county'),&#xA;    ('USCounties_Stage', 'Population', 'INT', 0, 1, 'Population of the county'),&#xA;    ('USCounties_Stage', 'SourceID', 'INT', 0, 1, 'Source ID for tracking'),&#xA;    ('USCounties_Stage', 'SourceName', 'NVARCHAR(255)', 0, 1, 'Name of the data source'),&#xA;    &#xA;    ('AQI_Stage', 'StateName', 'NVARCHAR(50)', 0, 1, 'Name of the state'),&#xA;    ('AQI_Stage', 'CountyName', 'NVARCHAR(50)', 0, 1, 'Name of the county'),&#xA;    ('AQI_Stage', 'StateCode', 'INT', 1, 0, 'Unique state code'),&#xA;    ('AQI_Stage', 'CountyCode', 'INT', 1, 0, 'Unique county code'),&#xA;    ('AQI_Stage', 'Date', 'DATE', 1, 1, 'Date of AQI measurement'),&#xA;    ('AQI_Stage', 'AQI', 'INT', 0, 1, 'Air Quality Index value'),&#xA;    ('AQI_Stage', 'Category', 'NVARCHAR(50)', 0, 1, 'AQI category'),&#xA;    ('AQI_Stage', 'DefiningParameter', 'NVARCHAR(50)', 0, 1, 'Parameter defining AQI'),&#xA;    ('AQI_Stage', 'DefiningSite', 'NVARCHAR(50)', 0, 1, 'Site defining AQI'),&#xA;    ('AQI_Stage', 'NumberOfSitesReporting', 'INT', 0, 1, 'Number of sites reporting AQI'),&#xA;    ('AQI_Stage', 'Created', 'DATETIME', 0, 1, 'Creation timestamp in AQI table'),&#xA;    ('AQI_Stage', 'LastUpdated', 'DATETIME', 0, 1, 'Last update timestamp in AQI table'),&#xA;    ('AQI_Stage', 'SourceID', 'INT', 0, 1, 'Source ID for tracking'),&#xA;    ('AQI_Stage', 'SourceName', 'NVARCHAR(255)', 0, 1, 'Name of the data source')&#xA;) AS source (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription)&#xA;ON target.TableName = source.TableName AND target.ColumnName = source.ColumnName&#xA;&#xA;WHEN MATCHED THEN &#xA;    UPDATE SET &#xA;        target.DataType = source.DataType,&#xA;        target.IsPrimaryKey = source.IsPrimaryKey,&#xA;        target.IsNullable = source.IsNullable,&#xA;        target.ColumnDescription = source.ColumnDescription,&#xA;        target.LastUpdated = GETDATE()&#xA;&#xA;WHEN NOT MATCHED BY TARGET THEN&#xA;    INSERT (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription, Created, LastUpdated)&#xA;    VALUES (source.TableName, source.ColumnName, source.DataType, source.IsPrimaryKey, source.IsNullable, source.ColumnDescription, GETDATE(), GETDATE());&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -3202,6 +3666,7 @@
     <DTS:Executable
       DTS:refId="Package\StageToNDS"
       DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Disabled="True"
       DTS:DTSID="{A744E86F-9143-4659-A7B0-C52B9DFE9835}"
       DTS:ExecutableType="Microsoft.ExecutePackageTask"
       DTS:LocaleID="-1"
@@ -3321,6 +3786,102 @@
         <pipeline
           version="1">
           <components>
+            <component
+              refId="Package\USCounties Flow\Derived SourceID and SourceName"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived SourceID and SourceName"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\USCounties Flow\Derived SourceID and SourceName.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\USCounties Flow\Derived SourceID and SourceName.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">1</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">1</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="14"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"(2B)uscounties"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"(2B)uscounties"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\USCounties Flow\Derived SourceID and SourceName.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
             <component
               refId="Package\USCounties Flow\USCounties Source"
               componentClassID="Microsoft.FlatFileSource"
@@ -3747,6 +4308,19 @@
                       cachedName="population"
                       externalMetadataColumnId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[Population]"
                       lineageId="Package\USCounties Flow\USCounties Source.Outputs[Flat File Source Output].Columns[population]" />
+                    <inputColumn
+                      refId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="14"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -3792,6 +4366,15 @@
                       refId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[Population]"
                       dataType="i4"
                       name="Population" />
+                    <externalMetadataColumn
+                      refId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -3823,8 +4406,13 @@
           </components>
           <paths>
             <path
-              refId="Package\USCounties Flow.Paths[Flat File Source Output]"
+              refId="Package\USCounties Flow.Paths[Derived Column Output]"
               endId="Package\USCounties Flow\USCounties_Stage Destination.Inputs[OLE DB Destination Input]"
+              name="Derived Column Output"
+              startId="Package\USCounties Flow\Derived SourceID and SourceName.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\USCounties Flow.Paths[Flat File Source Output]"
+              endId="Package\USCounties Flow\Derived SourceID and SourceName.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\USCounties Flow\USCounties Source.Outputs[Flat File Source Output]" />
           </paths>
@@ -3990,21 +4578,25 @@
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="120.8,41.6"
+          Size="121.6,41.6"
           Id="Package\AQI Flow"
           TopLeft="277.499984838069,311.999997830391" />
-        <NodeLayout
-          Size="173.6,41.6"
-          Id="Package\Create Stage Tables"
-          TopLeft="9.16666616582206,113.533332543837" />
         <NodeLayout
           Size="189.6,41.6"
           Id="Package\Create Metadata Tables"
           TopLeft="4.16666643900993,216.466665250394" />
         <NodeLayout
+          Size="173.6,41.6"
+          Id="Package\Create Stage Tables"
+          TopLeft="9.16666616582206,113.533332543837" />
+        <NodeLayout
           Size="195.2,41.6"
           Id="Package\Initialize Metadata_Stage"
           TopLeft="275.833318262465,111.799999222557" />
+        <NodeLayout
+          Size="219.2,41.6"
+          Id="Package\Insert or update DataDefinition"
+          TopLeft="28.3333317852684,10.3999999276797" />
         <NodeLayout
           Size="200.8,41.6"
           Id="Package\Insert or update DataStore"
@@ -4037,10 +4629,6 @@
           Size="232,41.6"
           Id="Package\Update LSET USCounties_Stage"
           TopLeft="484.166640212968,400.399997215668" />
-        <NodeLayout
-          Size="219.2,41.6"
-          Id="Package\Insert or update DataDefinition"
-          TopLeft="28.3333317852684,10.3999999276797" />
         <NodeLayout
           Size="205.6,41.6"
           Id="Package\Update status in Data_Flow"
@@ -4263,7 +4851,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="338.81665216494,262.599998463193">
+          TopLeft="339.01665216494,262.599998463193">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -4307,7 +4895,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="337.966652506425,353.599997830391">
+          TopLeft="338.166652506425,353.599997830391">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -4434,189 +5022,285 @@
     design-time-name="Package\AQI Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2023 Source"
-          TopLeft="777.166655119095,77.9333321238227" />
-        <NodeLayout
-          Size="184,41.6"
-          Id="Package\AQI Flow\AQI_Stage Destination"
-          TopLeft="546.666658653153,394.999993907412" />
-        <NodeLayout
-          Size="160.8,41.6"
-          Id="Package\AQI Flow\AQI_2022 Source"
-          TopLeft="546.833325151768,22.2666659078333" />
-        <NodeLayout
-          Size="97.6,41.6"
-          Id="Package\AQI Flow\Sort"
-          TopLeft="581.999991327524,305.999995440245" />
+          TopLeft="780.138083666195,50.6980380510853" />
         <NodeLayout
           Size="156,41.6"
           Id="Package\AQI Flow\Data Conversion"
-          TopLeft="552.500003191331,105.866665103965" />
+          TopLeft="566.071431791649,75.5725475044971" />
+        <NodeLayout
+          Size="160.8,41.6"
+          Id="Package\AQI Flow\AQI_2022 Source"
+          TopLeft="569.690468057568,0.384313006874468" />
+        <NodeLayout
+          Size="97.6,41.6"
+          Id="Package\AQI Flow\Sort"
+          TopLeft="580.571419895911,356.764701299137" />
+        <NodeLayout
+          Size="184,41.6"
+          Id="Package\AQI Flow\AQI_Stage Destination"
+          TopLeft="540.238087210897,444.235288002939" />
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2021 Source"
-          TopLeft="324.999995157123,79.9999988079071" />
+          TopLeft="332.857138030992,50.4705870901219" />
         <NodeLayout
           Size="120,41.6"
           Id="Package\AQI Flow\Union All"
-          TopLeft="573.999991446734,200.999997839332" />
+          TopLeft="573.999991446734,277.764703675435" />
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Union All Output 1]"
-          TopLeft="632.399991387129,242.599997839332">
+          TopLeft="631.685705671323,319.364703675435">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,63.3999976009132"
+              EndConnector="0,37.3999976237023"
               Start="0,0"
-              End="0,55.8999976009132">
+              End="0,29.8999976237023">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.8999976009132" />
+                    End="0,29.8999976237023" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-30.26947265625,9.33818240560117,60.5389453125,11.2236328125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Sort Output]"
-          TopLeft="634.733324990338,347.599995440245">
+          TopLeft="630.804753553404,398.364701299137">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,47.3999984671668"
+              EndConnector="0,45.8705867038017"
               Start="0,0"
-              End="0,39.8999984671668">
+              End="0,38.3705867038017">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,39.8999984671668" />
+                    End="0,38.3705867038017" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AQI Flow.Paths[Flat File Source Output2]"
-          TopLeft="628.86666417155,63.8666659078333">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,41.9999991961316"
-              Start="0,0"
-              End="0,34.4999991961316">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.4999991961316" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AQI Flow.Paths[Flat File Source Output1]"
-          TopLeft="405.399995157123,121.599998807907">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="209.933329622944,79.3999990314245"
-              Start="0,0"
-              End="209.933329622944,71.8999990314245">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,43.0131573212382" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,43.0131573212382"
-                    Point2="0,47.0131573212382"
-                    Point3="4,47.0131573212382" />
-                  <mssgle:LineSegment
-                    End="205.933329622944,47.0131573212382" />
-                  <mssgle:CubicBezierSegment
-                    Point1="205.933329622944,47.0131573212382"
-                    Point2="209.933329622944,47.0131573212382"
-                    Point3="209.933329622944,51.0131573212382" />
-                  <mssgle:LineSegment
-                    End="209.933329622944,71.8999990314245" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-30.26947265625,13.5734769456508,60.5389453125,11.2236328125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output]"
-          TopLeft="857.566655119095,119.533332123823">
+          TopLeft="647.080949924609,41.9843130068745">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-195.566663672361,81.4666657155093"
+              EndConnector="0,33.5882344976226"
               Start="0,0"
-              End="-195.566663672361,73.9666657155093">
+              End="0,26.0882344976226">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,49.1304341622887" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,49.1304341622887"
-                    Point2="0,53.1304341622887"
-                    Point3="-4,53.1304341622887" />
-                  <mssgle:LineSegment
-                    End="-191.566663672361,53.1304341622887" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-191.566663672361,53.1304341622887"
-                    Point2="-195.566663672361,53.1304341622887"
-                    Point3="-195.566663672361,57.1304341622887" />
-                  <mssgle:LineSegment
-                    End="-195.566663672361,73.9666657155093" />
+                    End="0,26.0882344976226" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-27.8837109375,7.42985943631131,55.767421875,11.228515625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\AQI Flow\Derived Column"
+          TopLeft="342.34285766896,157.647058794037" />
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Flat File Source Output1]"
+          TopLeft="415.999997849976,92.0705870901218">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,65.5764717039149"
+              Start="0,0"
+              End="0,58.0764717039149">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,58.0764717039149" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-27.8837109375,23.4166538207075,55.767421875,11.2431640625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="162.4,41.6"
+          Id="Package\AQI Flow\Derived Column 1"
+          TopLeft="559.114286695025,150.552941148989" />
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Data Conversion Output]"
+          TopLeft="642.192859243337,117.172547504497">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,33.3803936444917"
+              Start="0,0"
+              End="0,25.8803936444917">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.8803936444917" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-27.8837109375,7.32593900974584,55.767421875,11.228515625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="162.4,41.6"
+          Id="Package\AQI Flow\Derived Column 2"
+          TopLeft="775.142858605604,154.341176439084" />
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Flat File Source Output2]"
+          TopLeft="858.4404711359,92.2980380510853">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,62.0431383879991"
+              Start="0,0"
+              End="0,54.5431383879991">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,54.5431383879991" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-27.8837109375,21.6597527877495,55.767421875,11.2236328125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AQI Flow.Paths[Data Conversion Output]"
-          TopLeft="632.249997319033,147.466665103965">
+          Id="Package\AQI Flow.Paths[Derived Column Output]"
+          TopLeft="637.15713907088,192.152941148989">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,53.533332735367"
+              EndConnector="0,85.611762526446"
               Start="0,0"
-              End="0,46.033332735367">
+              End="0,78.111762526446">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,46.033332735367" />
+                    End="0,78.111762526446" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-27.8837109375,33.441623450723,55.767421875,11.228515625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Derived Column Output1]"
+          TopLeft="418.74285766896,199.247058794037">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="196.590467111108,78.517644881398"
+              Start="0,0"
+              End="196.590467111108,71.017644881398">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.4907107850383" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,42.4907107850383"
+                    Point2="0,46.4907107850383"
+                    Point3="4,46.4907107850383" />
+                  <mssgle:LineSegment
+                    End="192.590467111108,46.4907107850383" />
+                  <mssgle:CubicBezierSegment
+                    Point1="192.590467111108,46.4907107850383"
+                    Point2="196.590467111108,46.4907107850383"
+                    Point3="196.590467111108,50.4907107850383" />
+                  <mssgle:LineSegment
+                    End="196.590467111108,71.017644881398" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="70.4115226180539,51.4907107850383,55.767421875,11.2431640625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Derived Column Output2]"
+          TopLeft="856.342858605604,195.941176439084">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-194.34286715887,81.8235272363504"
+              Start="0,0"
+              End="-194.34286715887,74.3235272363504">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,49.3631699367503" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,49.3631699367503"
+                    Point2="0,53.3631699367503"
+                    Point3="-4,53.3631699367503" />
+                  <mssgle:LineSegment
+                    End="-190.34286715887,53.3631699367503" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-190.34286715887,53.3631699367503"
+                    Point2="-194.34286715887,53.3631699367503"
+                    Point3="-194.34286715887,57.3631699367503" />
+                  <mssgle:LineSegment
+                    End="-194.34286715887,74.3235272363504" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-125.055144516935,58.3631699367503,55.767421875,11.2236328125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4651,35 +5335,65 @@
     design-time-name="Package\USCounties Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="221.6,41.6"
+          Size="220.8,41.6"
           Id="Package\USCounties Flow\USCounties_Stage Destination"
-          TopLeft="368.666646007035,228.933331733412" />
+          TopLeft="367.666646021936,252.933331793017" />
         <NodeLayout
           Size="169.6,41.6"
           Id="Package\USCounties Flow\USCounties Source"
-          TopLeft="395.833311705955,99.6666659735971" />
+          TopLeft="395.833311705955,68.6666664355331" />
+        <NodeLayout
+          Size="244.8,41.6"
+          Id="Package\USCounties Flow\Derived SourceID and SourceName"
+          TopLeft="358.999994650483,150.999997749925" />
         <EdgeLayout
           Id="Package\USCounties Flow.Paths[Flat File Source Output]"
-          TopLeft="480.049978856495,141.266665973597">
+          TopLeft="481.016653178219,110.266666435533">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,87.6666657598147"
+              EndConnector="0,40.7333313143916"
               Start="0,0"
-              End="0,80.1666657598147">
+              End="0,33.2333313143916">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,80.1666657598147" />
+                    End="0,33.2333313143916" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-25.1244140625,11.0024078446958,50.248828125,11.228515625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\USCounties Flow.Paths[Derived Column Output]"
+          TopLeft="479.73332033621,192.599997749925">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60.3333340430919"
+              Start="0,0"
+              End="0,52.8333340430919">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.8333340430919" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-25.1244140625,20.8024092090459,50.248828125,11.228515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
