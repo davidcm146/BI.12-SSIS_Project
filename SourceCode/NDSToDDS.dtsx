@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="NDSToDDS"
   DTS:PackageType="5"
-  DTS:VersionBuild="85"
-  DTS:VersionGUID="{93748E99-F4B9-4F19-91F7-60BBC5A0A2B0}">
+  DTS:VersionBuild="86"
+  DTS:VersionGUID="{549DF696-FA55-4F17-A967-6A9E7540D1C7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -89,7 +89,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABcd+nnqq8is/3Z1BFi2WlFq1qOMRJxIF2cidKFmlPAugAAAAAOgAAAAAIAACAAAAC3jRFH5x7y847DTG+XwhKzwGA3u1TSUFfkg6IGcnOt2iAAAADfZ25osS/Pq3iRTVauDcpZ0/1OJ/vsKPo4KpNkIdvErUAAAABDuGw1YhdT3HGCW3zUkEJqXyGxmMInzbCGP7XWsXCOD8F5Hka+GRQKlc9m0mAaEx2srdnN6VQ5AdzRMnxFG03A</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOUxQ/TVreBRGqzDFnwcmDQonTCke7diUjdBnK/lpdlQAAAAAOgAAAAAIAACAAAACt4hJX5tWtzKp0m6xjQ0M2bOd83AJyHdLzOIqNYR5ZDyAAAAB/6JcNXiWG6Y7j0AlJ8r7kOYO7hnT2b9AqIXwx0m/P20AAAABKnzQmtPbbC5l7G/rRqPWKMrfOPS5YFK6/S9zKMTCn/BTl6UBr8tGgIAtZ8z1Cz3ja4juyEowLNPfKtNouYo1+</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -106,7 +106,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACCfR/fIbhTqJUnEUVbDBAHdcDf/pqMiDzoF3Q4ZLUS1wAAAAAOgAAAAAIAACAAAAAZEn1Pj5Q1xK0u5+lmC5IvGi36BLjxUZoE3QY1WurtiyAAAACw89127H+GyL1Gid3UR6kcdCbUPoUK0tK1z/vAyFMlzUAAAAAh2cQTJGSlvchwj3rH0viz9HoJBLqGYIVZUqwuw0yu3TSF7O4xQ4FdZ/YUigB94v0CnndITpiFMs8iifQNyzn6</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABBZHJZ/R5IFqU8voy/rpXp68IzWSmZzEf51PYRBINHnAAAAAAOgAAAAAIAACAAAAB6Qs/pW2++wsuvuD4+riUtlPTgUZqEkzim1k20YnVY/CAAAACTVjw02EdEni2mZlTrf54sXZpLETfsdVg/XiJXxKVHCEAAAAApc2qGPLCHwIHY2QficW60nSewhbHjZ9L/KsPVym6AGYOBidLjJ0IRAlwFeQvzvN1NaTyfcysAkOq0TEWmsQIL</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -5611,7 +5611,7 @@ where [refTable].[Date] = ?</property>
         <NodeLayout
           Size="154.4,41.6"
           Id="Package\Date_DDS Flow\Date_dimension"
-          TopLeft="284.857137043257,315.999996385154" />
+          TopLeft="267.714279863907,315.999996385154" />
         <NodeLayout
           Size="136,41.6"
           Id="Package\Date_DDS Flow\Date Source"
@@ -5619,73 +5619,49 @@ where [refTable].[Date] = ?</property>
         <NodeLayout
           Size="112.8,41.6"
           Id="Package\Date_DDS Flow\Lookup"
-          TopLeft="365.000000776989,191.941176302345" />
+          TopLeft="284.285714890884,198.823529237489" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\Date_DDS Flow\Data Conversion"
-          TopLeft="471.428572432119,102.470588145475" />
+          TopLeft="267.142857711534,103.99999990884" />
         <EdgeLayout
           Id="Package\Date_DDS Flow.Paths[Lookup No Match Output]"
-          TopLeft="421.400000776989,233.541176302345">
+          TopLeft="342.799997377395,240.423529237489">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-59.3428637337316,82.4588200828092"
+              EndConnector="0,75.5764671476652"
               Start="0,0"
-              End="-59.3428637337316,74.9588200828092">
+              End="0,68.0764671476652">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,37.2294100414046" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,37.2294100414046"
-                    Point2="0,41.2294100414046"
-                    Point3="-4,41.2294100414046" />
-                  <mssgle:LineSegment
-                    End="-55.3428637337316,41.2294100414046" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-55.3428637337316,41.2294100414046"
-                    Point2="-59.3428637337316,41.2294100414046"
-                    Point3="-59.3428637337316,45.2294100414046" />
-                  <mssgle:LineSegment
-                    End="-59.3428637337316,74.9588200828092" />
+                    End="0,68.0764671476652" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-85.4778185856158,46.2294100414046,111.6127734375,11.609375"
+              BoundingBox="-55.80638671875,28.2335460738326,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Date_DDS Flow.Paths[Flat File Source Output]"
-          TopLeft="338.571422301385,50.6588219787626">
+          TopLeft="341.657140006459,50.6588219787626">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="210.457150130734,51.811766166712"
+              EndConnector="0,53.3411779300777"
               Start="0,0"
-              End="210.457150130734,44.311766166712">
+              End="0,45.8411779300777">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.905883083356" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,21.905883083356"
-                    Point2="0,25.905883083356"
-                    Point3="4,25.905883083356" />
-                  <mssgle:LineSegment
-                    End="206.457150130734,25.905883083356" />
-                  <mssgle:CubicBezierSegment
-                    Point1="206.457150130734,25.905883083356"
-                    Point2="210.457150130734,25.905883083356"
-                    Point3="210.457150130734,29.905883083356" />
-                  <mssgle:LineSegment
-                    End="210.457150130734,44.311766166712" />
+                    End="0,45.8411779300777" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5696,30 +5672,18 @@ where [refTable].[Date] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Date_DDS Flow.Paths[Data Conversion Output]"
-          TopLeft="549.028572432119,144.070588145475">
+          TopLeft="342.714286301209,145.59999990884">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-127.62857165513,47.8705881568702"
+              EndConnector="0,53.2235293286486"
               Start="0,0"
-              End="-127.62857165513,40.3705881568702">
+              End="0,45.7235293286486">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,19.9352940784351" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,19.9352940784351"
-                    Point2="0,23.9352940784351"
-                    Point3="-4,23.9352940784351" />
-                  <mssgle:LineSegment
-                    End="-123.62857165513,23.9352940784351" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-123.62857165513,23.9352940784351"
-                    Point2="-127.62857165513,23.9352940784351"
-                    Point3="-127.62857165513,27.9352940784351" />
-                  <mssgle:LineSegment
-                    End="-127.62857165513,40.3705881568702" />
+                    End="0,45.7235293286486" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

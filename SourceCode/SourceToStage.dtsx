@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="SourceToStage"
   DTS:PackageType="5"
-  DTS:VersionBuild="131"
-  DTS:VersionGUID="{8B7F0A16-C0AE-4FB2-B3AE-81FA5515E389}">
+  DTS:VersionBuild="137"
+  DTS:VersionGUID="{7B9BFB7F-E5B0-42B3-97C6-F4FB20D1DE75}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -394,7 +394,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAALnNDeMKvsZuBAKmwPEQ4umyuqnslih6FU6CSHTyETnwAAAAAOgAAAAAIAACAAAABNWAhbOIMoA6vXdwvUfrW28k2qjBEAzhdBuaI43Tgd2SAAAABC6+y/iw5n0XVzimGWWXjv3REPA0+s0WQDaIo/H6kYtkAAAACvtH8Iquf+eFUVjD8eIENjfSrvkfnSuALVqxIxpXoR7GzRsnilxYUav90cOeordfk8Yw88e5ZjlooeU4j2SH7u</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABUgsqC7ODnXpXXNeQvJoHkqWl7nYUTI5dC3KgpxfMKUQAAAAAOgAAAAAIAACAAAAAD/Rt7CI0vd4PntsXyjEuV8HEHdLUvJZrMWVA2gbkS0SAAAAAAT3IxPe/pgkPpe7X40/FY96d/kIpsEuHZQbP0RyEyKkAAAABJI41Yu5KmTfrV9Xao+TmqnNcGkbD0zOXQOaDfjENcwGIiHRAhohXF9HMzl+69B9axEqVGEFQ7MKojBocXuB/s</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -411,7 +411,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADaMl86hPL4I1giXqfbHtWIZ2GnAz9hOQ/eKSvsWVdSiwAAAAAOgAAAAAIAACAAAAAYdC01l15wKiKBjKDWJKsIuN6tcgWZ0tb/0OZ0jr+15iAAAABgnfe1kvEMxPl2CIgWFWaBZRMEMnaJwPhVcoNo+2qlfkAAAAAiUkLtbT6Y+bIkjpm3B7nNvZo18kMPLxkemZPGi+B3I1JWNhdIiyCGF/abbPSP9d9QIaUS0q3hhNL5Wvocp9TK</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABioWc04hR7+6jL2a4OoUMOh/9vws0vfpLEB6AfZ7C/3wAAAAAOgAAAAAIAACAAAAB8G6XdsDmEiWIQYpIApW1v53JoakZQwTv4KWd3yGRZSiAAAADkIbkmVIl8BxwOWsBFZXfAjycwYKqvjFe8cNe/glqFfEAAAABQRaYit+RM/qKCr/z0xms1yWmxvyExnjnNLC5WC1DtkfSbs4R877c8x3G4lni8TtNIq7lasd9TA1Gg/HMnE2ix</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -428,7 +428,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADjQHvnQXjXkpjBucxaFGZw0zINlfMCNaK76+DtthakKgAAAAAOgAAAAAIAACAAAACqN0ONLzjSoS4JNGZiuI2FImhbALoKEcE1YOUaXT8CsyAAAADX/o5AU0ATu3lzVRFzQSPmF5xh57w7ycIZNJvVRBJ950AAAABc8cYauCvtaGBCEWjtBK/3bLDBV+eD5lAmOlg0gpLUi4wZJdD+l8cqXVHo4W6Wr5fXM3w6i3Ea2a8noYuQns1m</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB/jy1pmC4sG6SRe+/+TRWVCGtKtqmwD74xkGCkmG+gkQAAAAAOgAAAAAIAACAAAADcpOCyjLGKC4akHUrnfXIbTK5kvgmia1J2oWOv+deGUSAAAAB1TEMq4Z4PN8Dl00YHSDnGJrN+4acScGCUO6ZPMM2yN0AAAAD9sjH70YDpNRKwn9gRiiNu1u/tLrRI4mVZAjExNX99pZ9KD1eXgdAhRCl6dZMTx37OEflcNv9FD7MSK4I5eJri</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1988,6 +1988,294 @@
               </outputs>
             </component>
             <component
+              refId="Package\AQI Flow\Create SourceID and SourceName"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Create SourceID and SourceName"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Create SourceID and SourceName.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">2</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">2</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2021"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2021"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\Create SourceID and SourceName 1"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Create SourceID and SourceName 1"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Create SourceID and SourceName 1.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">3</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">3</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2022"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2022"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName 1.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\Create SourceID and SourceName 2"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Create SourceID and SourceName 2"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Create SourceID and SourceName 2.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName 2.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">4</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">4</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="17"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceName]"
+                      name="SourceName"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">"10_state_aqi_2023"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">"10_state_aqi_2023"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\AQI Flow\Create SourceID and SourceName 2.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\AQI Flow\Data Conversion"
               componentClassID="Microsoft.DataConvert"
               contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -2058,294 +2346,6 @@
                       refId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
                       dataType="i4"
                       lineageId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\AQI Flow\Derived Column"
-              componentClassID="Microsoft.DerivedColumn"
-              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-              name="Derived Column"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]"
-                  description="Input to the Derived Column Transformation"
-                  name="Derived Column Input">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output]"
-                  description="Default Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  name="Derived Column Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]"
-                      name="SourceID"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">2</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">2</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      length="17"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]"
-                      name="SourceName"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">"10_state_aqi_2021"</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">"10_state_aqi_2021"</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output]"
-                  description="Error Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Derived Column Error Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\AQI Flow\Derived Column 1"
-              componentClassID="Microsoft.DerivedColumn"
-              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-              name="Derived Column 1"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]"
-                  description="Input to the Derived Column Transformation"
-                  name="Derived Column Input">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output]"
-                  description="Default Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  name="Derived Column Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]"
-                      name="SourceID"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">3</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">3</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      length="17"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]"
-                      name="SourceName"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">"10_state_aqi_2022"</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">"10_state_aqi_2022"</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output]"
-                  description="Error Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Derived Column Error Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\AQI Flow\Derived Column 2"
-              componentClassID="Microsoft.DerivedColumn"
-              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-              name="Derived Column 2"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]"
-                  description="Input to the Derived Column Transformation"
-                  name="Derived Column Input">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output]"
-                  description="Default Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  name="Derived Column Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]"
-                      name="SourceID"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">4</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">4</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      length="17"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]"
-                      name="SourceName"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">"10_state_aqi_2023"</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">"10_state_aqi_2023"</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output]"
-                  description="Error Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Derived Column Error Output"
-                  synchronousInputId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -2976,7 +2976,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 1].Columns[SourceID]"
                       cachedDataType="i4"
                       cachedName="SourceID"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceID]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceID]">
                       <properties>
                         <property
                           containsID="true"
@@ -2990,7 +2990,7 @@
                       cachedDataType="wstr"
                       cachedLength="17"
                       cachedName="SourceName"
-                      lineageId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output].Columns[SourceName]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output].Columns[SourceName]">
                       <properties>
                         <property
                           containsID="true"
@@ -3172,7 +3172,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 2].Columns[SourceID]"
                       cachedDataType="i4"
                       cachedName="SourceID"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceID]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceID]">
                       <properties>
                         <property
                           containsID="true"
@@ -3186,7 +3186,7 @@
                       cachedDataType="wstr"
                       cachedLength="17"
                       cachedName="SourceName"
-                      lineageId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output].Columns[SourceName]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output].Columns[SourceName]">
                       <properties>
                         <property
                           containsID="true"
@@ -3368,7 +3368,7 @@
                       refId="Package\AQI Flow\Union All.Inputs[Union All Input 3].Columns[SourceID]"
                       cachedDataType="i4"
                       cachedName="SourceID"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceID]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceID]">
                       <properties>
                         <property
                           containsID="true"
@@ -3382,7 +3382,7 @@
                       cachedDataType="wstr"
                       cachedLength="17"
                       cachedName="SourceName"
-                      lineageId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output].Columns[SourceName]">
+                      lineageId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output].Columns[SourceName]">
                       <properties>
                         <property
                           containsID="true"
@@ -3492,24 +3492,24 @@
           <paths>
             <path
               refId="Package\AQI Flow.Paths[Data Conversion Output]"
-              endId="Package\AQI Flow\Derived Column 1.Inputs[Derived Column Input]"
+              endId="Package\AQI Flow\Create SourceID and SourceName 1.Inputs[Derived Column Input]"
               name="Data Conversion Output"
               startId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Output]" />
             <path
               refId="Package\AQI Flow.Paths[Derived Column Output]"
               endId="Package\AQI Flow\Union All.Inputs[Union All Input 1]"
               name="Derived Column Output"
-              startId="Package\AQI Flow\Derived Column 1.Outputs[Derived Column Output]" />
+              startId="Package\AQI Flow\Create SourceID and SourceName 1.Outputs[Derived Column Output]" />
             <path
               refId="Package\AQI Flow.Paths[Derived Column Output1]"
               endId="Package\AQI Flow\Union All.Inputs[Union All Input 2]"
               name="Derived Column Output"
-              startId="Package\AQI Flow\Derived Column.Outputs[Derived Column Output]" />
+              startId="Package\AQI Flow\Create SourceID and SourceName.Outputs[Derived Column Output]" />
             <path
               refId="Package\AQI Flow.Paths[Derived Column Output2]"
               endId="Package\AQI Flow\Union All.Inputs[Union All Input 3]"
               name="Derived Column Output"
-              startId="Package\AQI Flow\Derived Column 2.Outputs[Derived Column Output]" />
+              startId="Package\AQI Flow\Create SourceID and SourceName 2.Outputs[Derived Column Output]" />
             <path
               refId="Package\AQI Flow.Paths[Flat File Source Output]"
               endId="Package\AQI Flow\Data Conversion.Inputs[Data Conversion Input]"
@@ -3517,12 +3517,12 @@
               startId="Package\AQI Flow\AQI_2022 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Flat File Source Output1]"
-              endId="Package\AQI Flow\Derived Column.Inputs[Derived Column Input]"
+              endId="Package\AQI Flow\Create SourceID and SourceName.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\AQI Flow\AQI_2021 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Flat File Source Output2]"
-              endId="Package\AQI Flow\Derived Column 2.Inputs[Derived Column Input]"
+              endId="Package\AQI Flow\Create SourceID and SourceName 2.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output]" />
             <path
@@ -3616,7 +3616,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Insert or update DataStore"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3633,7 +3633,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Insert or update records to TABLES"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3650,7 +3650,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Insert to Data_Flow"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3688,7 +3688,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate AQI_Stage"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3705,7 +3705,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate USCounties_Stage"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3722,7 +3722,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Update LSET AQI_Stage"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3739,7 +3739,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Update LSET USCounties_Stage"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -4591,7 +4591,7 @@
         <NodeLayout
           Size="195.2,41.6"
           Id="Package\Initialize Metadata_Stage"
-          TopLeft="275.833318262465,111.799999222557" />
+          TopLeft="370.476175606792,105.108822757834" />
         <NodeLayout
           Size="219.2,41.6"
           Id="Package\Insert or update DataDefinition"
@@ -4607,11 +4607,11 @@
         <NodeLayout
           Size="168,41.6"
           Id="Package\Insert to Data_Flow"
-          TopLeft="519.999971588454,104.866665937437" />
+          TopLeft="631.607114683179,104.866665937437" />
         <NodeLayout
           Size="184.8,41.6"
           Id="Package\StageToNDS"
-          TopLeft="653.999964485567,507.999998408954" />
+          TopLeft="642.392821603716,507.999998408954" />
         <NodeLayout
           Size="172.8,41.6"
           Id="Package\Truncate AQI_Stage"
@@ -4642,26 +4642,26 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="200.299986477197,59.7999992948771"
+              EndConnector="294.942843821524,53.1088228301541"
               Start="0,0"
-              End="200.299986477197,52.2999992948771">
+              End="294.942843821524,45.6088228301541">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.1799997148851" />
+                    End="0,17.4744370574102" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.1799997148851"
-                    Point2="0,24.1799997148851"
-                    Point3="4,24.1799997148851" />
+                    Point1="0,17.4744370574102"
+                    Point2="0,21.4744370574102"
+                    Point3="4,21.4744370574102" />
                   <mssgle:LineSegment
-                    End="196.299986477197,24.1799997148851" />
+                    End="290.942843821524,21.4744370574102" />
                   <mssgle:CubicBezierSegment
-                    Point1="196.299986477197,24.1799997148851"
-                    Point2="200.299986477197,24.1799997148851"
-                    Point3="200.299986477197,28.1799997148851" />
+                    Point1="290.942843821524,21.4744370574102"
+                    Point2="294.942843821524,21.4744370574102"
+                    Point3="294.942843821524,25.4744370574102" />
                   <mssgle:LineSegment
-                    End="200.299986477197,52.2999992948771" />
+                    End="294.942843821524,45.6088228301541" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4750,18 +4750,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 13]"
-          TopLeft="578.099979647498,526.666664834554">
+          TopLeft="578.099979647498,526.666664834553">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="75.8999848380695,0"
+              EndConnector="64.2928419562178,0"
               Start="0,0"
-              End="68.3999848380695,0">
+              End="56.7928419562178,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="68.3999848380695,0" />
+                    End="56.7928419562178,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4772,18 +4772,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 15]"
-          TopLeft="471.033318262465,129.133332579997">
+          TopLeft="565.676175606792,125.787744347635">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="48.9666533259891,0"
+              EndConnector="65.9309390763871,0"
               Start="0,0"
-              End="41.4666533259891,0">
+              End="58.4309390763871,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="41.4666533259891,0" />
+                    End="58.4309390763871,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4828,18 +4828,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="340.983318877138,153.399999222557">
+          TopLeft="436.876175606792,146.708822757834">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,67.5999992406365"
+              EndConnector="-97.1428561149809,74.2911757053592"
               Start="0,0"
-              End="0,60.0999992406365">
+              End="-97.1428561149809,66.7911757053592">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,60.0999992406365" />
+                    End="0,26.0788662611942" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,26.0788662611942"
+                    Point2="0,30.0788662611942"
+                    Point3="-4,30.0788662611942" />
+                  <mssgle:LineSegment
+                    End="-93.1428561149809,30.0788662611942" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-93.1428561149809,30.0788662611942"
+                    Point2="-97.1428561149809,30.0788662611942"
+                    Point3="-97.1428561149809,34.0788662611942" />
+                  <mssgle:LineSegment
+                    End="-97.1428561149809,66.7911757053592" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4916,30 +4928,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
-          TopLeft="404.633318262465,153.399999222557">
+          TopLeft="499.276175606792,146.708822757834">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="197.233321267535,63.2666659374364"
+              EndConnector="102.590463923207,69.9578424021591"
               Start="0,0"
-              End="197.233321267535,55.7666659374364">
+              End="102.590463923207,62.4578424021591">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.6152842575962" />
+                    End="0,24.3243947286791" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,21.6152842575962"
-                    Point2="0,25.6152842575962"
-                    Point3="4,25.6152842575962" />
+                    Point1="0,24.3243947286791"
+                    Point2="0,28.3243947286791"
+                    Point3="4,28.3243947286791" />
                   <mssgle:LineSegment
-                    End="193.233321267535,25.6152842575962" />
+                    End="98.5904639232072,28.3243947286791" />
                   <mssgle:CubicBezierSegment
-                    Point1="193.233321267535,25.6152842575962"
-                    Point2="197.233321267535,25.6152842575962"
-                    Point3="197.233321267535,29.6152842575962" />
+                    Point1="98.5904639232072,28.3243947286791"
+                    Point2="102.590463923207,28.3243947286791"
+                    Point3="102.590463923207,32.3243947286791" />
                   <mssgle:LineSegment
-                    End="197.233321267535,55.7666659374364" />
+                    End="102.590463923207,62.4578424021591" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5025,23 +5037,23 @@
         <NodeLayout
           Size="120,41.6"
           Id="Package\AQI Flow\Union All"
-          TopLeft="573.999991446734,277.764703675435" />
+          TopLeft="589.178562907617,285.411762492261" />
         <NodeLayout
           Size="156,41.6"
           Id="Package\AQI Flow\Data Conversion"
           TopLeft="566.071431791649,75.5725475044971" />
         <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\AQI Flow\Derived Column"
-          TopLeft="342.34285766896,157.647058794037" />
+          Size="239.2,41.6"
+          Id="Package\AQI Flow\Create SourceID and SourceName"
+          TopLeft="247.700000324633,158.60294114614" />
         <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\AQI Flow\Derived Column 2"
-          TopLeft="775.142858605604,154.341176439084" />
+          Size="248,41.6"
+          Id="Package\AQI Flow\Create SourceID and SourceName 2"
+          TopLeft="818.892858698736,149.561764678567" />
         <NodeLayout
           Size="97.6,41.6"
           Id="Package\AQI Flow\Sort"
-          TopLeft="580.571419895911,356.764701299137" />
+          TopLeft="599.321419935825,359.632348355447" />
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2022 Source"
@@ -5049,33 +5061,33 @@
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2023 Source"
-          TopLeft="780.138083666195,50.6980380510853" />
+          TopLeft="860.495226694397,52.6098027552919" />
         <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\AQI Flow\Derived Column 1"
-          TopLeft="559.114286695025,150.552941148989" />
+          Size="248,41.6"
+          Id="Package\AQI Flow\Create SourceID and SourceName 1"
+          TopLeft="521.614286615197,152.464705853196" />
         <NodeLayout
           Size="184,41.6"
           Id="Package\AQI Flow\AQI_Stage Destination"
-          TopLeft="540.238087210897,444.235288002939" />
+          TopLeft="559.880944395569,453.794111523972" />
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2021 Source"
-          TopLeft="332.857138030992,50.4705870901219" />
+          TopLeft="283.749995069313,50.4705870901219" />
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Data Conversion Output]"
-          TopLeft="642.192859243337,117.172547504497">
+          TopLeft="644.842859203423,117.172547504497">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,33.3803936444917"
+              EndConnector="0,35.2921583486985"
               Start="0,0"
-              End="0,25.8803936444917">
+              End="0,27.7921583486985">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.8803936444917" />
+                    End="0,27.7921583486985" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5086,18 +5098,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Union All Output 1]"
-          TopLeft="631.685705671323,319.364703675435">
+          TopLeft="648.649991421721,327.011762492261">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,37.3999976237023"
+              EndConnector="0,32.6205858631855"
               Start="0,0"
-              End="0,29.8999976237023">
+              End="0,25.1205858631855">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,29.8999976237023" />
+                    End="0,25.1205858631855" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5108,18 +5120,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Sort Output]"
-          TopLeft="630.804753553404,398.364701299137">
+          TopLeft="650.001182165697,401.232348355447">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,45.8705867038017"
+              EndConnector="0,52.5617631685251"
               Start="0,0"
-              End="0,38.3705867038017">
+              End="0,45.0617631685251">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,38.3705867038017" />
+                    End="0,45.0617631685251" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5130,18 +5142,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output2]"
-          TopLeft="858.4404711359,92.2980380510853">
+          TopLeft="941.894042696566,94.2098027552919">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,62.0431383879991"
+              EndConnector="0,55.3519619232755"
               Start="0,0"
-              End="0,54.5431383879991">
+              End="0,47.8519619232755">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,54.5431383879991" />
+                    End="0,47.8519619232755" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5152,18 +5164,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output1]"
-          TopLeft="415.999997849976,92.0705870901218">
+          TopLeft="365.724997696973,92.0705870901219">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,65.5764717039149"
+              EndConnector="0,66.5323540560184"
               Start="0,0"
-              End="0,58.0764717039149">
+              End="0,59.0323540560184">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,58.0764717039149" />
+                    End="0,59.0323540560184" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5196,30 +5208,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output2]"
-          TopLeft="856.342858605604,195.941176439084">
+          TopLeft="942.892858698736,191.161764678567">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-194.34286715887,81.8235272363504"
+              EndConnector="-265.71429579112,94.249997813694"
               Start="0,0"
-              End="-194.34286715887,74.3235272363504">
+              End="-265.71429579112,86.749997813694">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,49.3631699367503" />
+                    End="0,57.4673898784961" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,49.3631699367503"
-                    Point2="0,53.3631699367503"
-                    Point3="-4,53.3631699367503" />
+                    Point1="0,57.4673898784961"
+                    Point2="0,61.4673898784961"
+                    Point3="-4,61.4673898784961" />
                   <mssgle:LineSegment
-                    End="-190.34286715887,53.3631699367503" />
+                    End="-261.71429579112,61.4673898784961" />
                   <mssgle:CubicBezierSegment
-                    Point1="-190.34286715887,53.3631699367503"
-                    Point2="-194.34286715887,53.3631699367503"
-                    Point3="-194.34286715887,57.3631699367503" />
+                    Point1="-261.71429579112,61.4673898784961"
+                    Point2="-265.71429579112,61.4673898784961"
+                    Point3="-265.71429579112,65.4673898784961" />
                   <mssgle:LineSegment
-                    End="-194.34286715887,74.3235272363504" />
+                    End="-265.71429579112,86.749997813694" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5230,30 +5242,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output1]"
-          TopLeft="418.74285766896,199.247058794037">
+          TopLeft="367.300000324633,200.20294114614">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="196.590467111108,78.517644881398"
+              EndConnector="253.878562582983,85.2088213461211"
               Start="0,0"
-              End="196.590467111108,71.017644881398">
+              End="253.878562582983,77.7088213461211">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,42.4907107850383" />
+                    End="0,51.5709704431225" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,42.4907107850383"
-                    Point2="0,46.4907107850383"
-                    Point3="4,46.4907107850383" />
+                    Point1="0,51.5709704431225"
+                    Point2="0,55.5709704431225"
+                    Point3="4,55.5709704431225" />
                   <mssgle:LineSegment
-                    End="192.590467111108,46.4907107850383" />
+                    End="249.878562582983,55.5709704431225" />
                   <mssgle:CubicBezierSegment
-                    Point1="192.590467111108,46.4907107850383"
-                    Point2="196.590467111108,46.4907107850383"
-                    Point3="196.590467111108,50.4907107850383" />
+                    Point1="249.878562582983,55.5709704431225"
+                    Point2="253.878562582983,55.5709704431225"
+                    Point3="253.878562582983,59.5709704431225" />
                   <mssgle:LineSegment
-                    End="196.590467111108,71.017644881398" />
+                    End="253.878562582983,77.7088213461211" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5264,18 +5276,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output]"
-          TopLeft="637.15713907088,192.152941148989">
+          TopLeft="647.396424761407,194.064705853196">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,85.611762526446"
+              EndConnector="0,91.3470566390658"
               Start="0,0"
-              End="0,78.111762526446">
+              End="0,83.8470566390658">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,78.111762526446" />
+                    End="0,83.8470566390658" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5316,19 +5328,19 @@
     design-time-name="Package\USCounties Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="220.8,41.6"
           Id="Package\USCounties Flow\USCounties_Stage Destination"
           TopLeft="367.666646021936,252.933331793017" />
         <NodeLayout
-          Size="169.6,41.6"
-          Id="Package\USCounties Flow\USCounties Source"
-          TopLeft="395.833311705955,68.6666664355331" />
-        <NodeLayout
           Size="244.8,41.6"
           Id="Package\USCounties Flow\Derived SourceID and SourceName"
           TopLeft="358.999994650483,150.999997749925" />
+        <NodeLayout
+          Size="169.6,41.6"
+          Id="Package\USCounties Flow\USCounties Source"
+          TopLeft="395.833311705955,68.6666664355331" />
         <EdgeLayout
           Id="Package\USCounties Flow.Paths[Flat File Source Output]"
           TopLeft="481.016653178219,110.266666435533">
@@ -5348,9 +5360,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-25.1244140625,11.0024078446958,50.248828125,11.228515625"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5372,9 +5382,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-25.1244140625,20.8024092090459,50.248828125,11.228515625"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
