@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="NDSToDDS"
   DTS:PackageType="5"
-  DTS:VersionBuild="86"
-  DTS:VersionGUID="{549DF696-FA55-4F17-A967-6A9E7540D1C7}">
+  DTS:VersionBuild="102"
+  DTS:VersionGUID="{9C98411A-E645-49D0-81E5-309957FFC31A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -89,7 +89,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOUxQ/TVreBRGqzDFnwcmDQonTCke7diUjdBnK/lpdlQAAAAAOgAAAAAIAACAAAACt4hJX5tWtzKp0m6xjQ0M2bOd83AJyHdLzOIqNYR5ZDyAAAAB/6JcNXiWG6Y7j0AlJ8r7kOYO7hnT2b9AqIXwx0m/P20AAAABKnzQmtPbbC5l7G/rRqPWKMrfOPS5YFK6/S9zKMTCn/BTl6UBr8tGgIAtZ8z1Cz3ja4juyEowLNPfKtNouYo1+</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAFl8Q4GulF8OMuwzQv1oQVRofO4mUPXq4pnLyFyHu2GAAAAAAOgAAAAAIAACAAAAAsh8fYWrPiBveZxipyWoLZpxIL9ktoknnXQhJ1mdYUkiAAAAD4LU0aBUbFmKSGY8z6vKtNusbSRci3S/IP/CNXDs4xlEAAAACQoU7qOGhbt3F+9YmXIQ+h9AX8KdV7y0ncDnkrxHk2nffz+Xcig6uY/2RX/zVyQxOinA9WqTBmUrcLr9SxcgvP</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -106,12 +106,39 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABBZHJZ/R5IFqU8voy/rpXp68IzWSmZzEf51PYRBINHnAAAAAAOgAAAAAIAACAAAAB6Qs/pW2++wsuvuD4+riUtlPTgUZqEkzim1k20YnVY/CAAAACTVjw02EdEni2mZlTrf54sXZpLETfsdVg/XiJXxKVHCEAAAAApc2qGPLCHwIHY2QficW60nSewhbHjZ9L/KsPVym6AGYOBidLjJ0IRAlwFeQvzvN1NaTyfcysAkOq0TEWmsQIL</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABvuVtf6s3oq7ykBjFTPh9ayGFy+yu88nDeq5aMmu0HOAAAAAAOgAAAAAIAACAAAACcdL5plQKVfQeBTvUA/inBjgIAWkT+o0LqG3VZHE52gyAAAACUgde4aoHe7AOlBARlsWZ0moknNbUOmfzQ7uRRing3HUAAAAAmeDyDE4VB/eTc33HxgG+Q6ArBaZj7Aab3qtvLjOPgQVxptxnGpB74ud2DZyOXAIePa01BS6KfodfBs+pcX/om</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.Metadata.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{F346659F-9951-496F-901D-28D44D6FEFE6}"
+      DTS:ObjectName="LAPTOP-MDA5KT8P\SQLSERVER.Metadata.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-MDA5KT8P\SQLSERVER;User ID=sa;Initial Catalog=Metadata;Provider=SQLNCLI11.1;Application Name=SSIS-NDSToDDS-{F346659F-9951-496F-901D-28D44D6FEFE6}LAPTOP-MDA5KT8P\SQLSERVER.Metadata.sa;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAADGN1gcYY4eqLpJ2w15Ci+yWEN5J9F0k3w28gP5NWhwAAAAAOgAAAAAIAACAAAABNKdenhPjl2NueCzPjfxCSLvkcxDkPDul8AAjC1W7B/SAAAAD4SOHtlSTpInrZMYN7J0h7NBIzMAeiIOLGR8bg27DE+EAAAADbSKtqIGvENiWXXz/AHEYmhuA1GCUsJI0vsnPME9gEBQEdf6eEt7nviO0dINcPzQxDnhopi6oxVUuWZQE9QgJJ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
-  <DTS:Variables />
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{DACAD28B-7A49-4241-B41E-73BDA39C771D}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="DataFlowID">
+      <DTS:VariableValue
+        DTS:DataType="3">0</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
   <DTS:Executables>
     <DTS:Executable
       DTS:refId="Package\AQI_DDS Flow"
@@ -4054,289 +4081,6 @@ WHERE CountyName = ? ;</property>
           version="1">
           <components>
             <component
-              refId="Package\Date_DDS Flow\Data Conversion"
-              componentClassID="Microsoft.DataConvert"
-              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Data Conversion"
-              name="Data Conversion"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\Date_DDS Flow\Data Conversion.Inputs[Data Conversion Input]"
-                  name="Data Conversion Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Date_DDS Flow\Data Conversion.Inputs[Data Conversion Input].Columns[date]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="date"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[date]" />
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output]"
-                  exclusionGroup="1"
-                  name="Data Conversion Output"
-                  synchronousInputId="Package\Date_DDS Flow\Data Conversion.Inputs[Data Conversion Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output].Columns[converted_date]"
-                      dataType="dbDate"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      lineageId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output].Columns[converted_date]"
-                      name="converted_date"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[date]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Data Conversion Error Output"
-                  synchronousInputId="Package\Date_DDS Flow\Data Conversion.Inputs[Data Conversion Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Date_DDS Flow\Date Source"
-              componentClassID="Microsoft.FlatFileSource"
-              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Flat File Source"
-              localeId="1033"
-              name="Date Source"
-              usesDispositions="true"
-              validateExternalMetadata="False"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Specifies whether zero-length columns are treated as null."
-                  name="RetainNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
-                  name="FileNameColumnName"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Date_DDS Flow\Date Source.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Date Connection Manager]"
-                  connectionManagerRefId="Package.ConnectionManagers[Date Connection Manager]"
-                  name="FlatFileConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output]"
-                  name="Flat File Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[date]"
-                      codePage="65001"
-                      dataType="str"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[date]"
-                      length="50"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[date]"
-                      name="date"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the data is in binary format."
-                          name="UseBinaryFormat">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[day]"
-                      codePage="65001"
-                      dataType="str"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[day]"
-                      length="50"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[day]"
-                      name="day"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the data is in binary format."
-                          name="UseBinaryFormat">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[month]"
-                      codePage="65001"
-                      dataType="str"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[month]"
-                      length="50"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[month]"
-                      name="month"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the data is in binary format."
-                          name="UseBinaryFormat">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[year]"
-                      codePage="65001"
-                      dataType="str"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[year]"
-                      length="50"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[year]"
-                      name="year"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the data is in binary format."
-                          name="UseBinaryFormat">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[quarter]"
-                      codePage="65001"
-                      dataType="str"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[quarter]"
-                      length="50"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[quarter]"
-                      name="quarter"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the data is in binary format."
-                          name="UseBinaryFormat">false</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[date]"
-                      codePage="65001"
-                      dataType="str"
-                      length="50"
-                      name="date" />
-                    <externalMetadataColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[day]"
-                      codePage="65001"
-                      dataType="str"
-                      length="50"
-                      name="day" />
-                    <externalMetadataColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[month]"
-                      codePage="65001"
-                      dataType="str"
-                      length="50"
-                      name="month" />
-                    <externalMetadataColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[year]"
-                      codePage="65001"
-                      dataType="str"
-                      length="50"
-                      name="year" />
-                    <externalMetadataColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].ExternalColumns[quarter]"
-                      codePage="65001"
-                      dataType="str"
-                      length="50"
-                      name="quarter" />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output]"
-                  isErrorOut="true"
-                  name="Flat File Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
-                      codePage="65001"
-                      dataType="text"
-                      description="Flat File Source Error Output Column"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
-                      name="Flat File Source Error Output Column" />
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
               refId="Package\Date_DDS Flow\Date_dimension"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -4410,45 +4154,36 @@ WHERE CountyName = ? ;</property>
                   name="OLE DB Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[date]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="date"
+                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
                       externalMetadataColumnId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[date]" />
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]" />
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[day]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="day"
+                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[Day]"
+                      cachedDataType="i4"
+                      cachedName="Day"
                       externalMetadataColumnId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].ExternalColumns[Day]"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[day]" />
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Day]" />
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[month]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="month"
+                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[Month]"
+                      cachedDataType="i4"
+                      cachedName="Month"
                       externalMetadataColumnId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].ExternalColumns[Month]"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[month]" />
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Month]" />
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[year]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="year"
+                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[Year]"
+                      cachedDataType="i4"
+                      cachedName="Year"
                       externalMetadataColumnId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[year]" />
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Year]" />
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[quarter]"
-                      cachedCodepage="65001"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="quarter"
+                      refId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].Columns[Quarter]"
+                      cachedDataType="i4"
+                      cachedName="Quarter"
                       externalMetadataColumnId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input].ExternalColumns[Quarter]"
-                      lineageId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output].Columns[quarter]" />
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Quarter]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -4501,100 +4236,711 @@ WHERE CountyName = ? ;</property>
               </outputs>
             </component>
             <component
-              refId="Package\Date_DDS Flow\Lookup"
-              componentClassID="Microsoft.Lookup"
-              contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
-              description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
-              name="Lookup"
+              refId="Package\Date_DDS Flow\Derived Column"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived Column"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Date_DDS Flow\Derived Column.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Inputs[Derived Column Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\Date_DDS Flow\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Day]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Day]"
+                      name="Day"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[DAY](#{Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]})</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">DAY(Date)</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Month]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Month]"
+                      name="Month"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[MONTH](#{Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]})</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">MONTH(Date)</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Year]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Year]"
+                      name="Year"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[YEAR](#{Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]})</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">YEAR(Date)</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Quarter]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output].Columns[Quarter]"
+                      name="Quarter"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">(DT_I4)(([MONTH](#{Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]}) + 2) / 3)</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">(DT_I4)((MONTH(Date) + 2) / 3)</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\Date_DDS Flow\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Date_DDS Flow\OLE DB Source"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="OLE DB Source"
               usesDispositions="true"
-              validateExternalMetadata="False"
-              version="6">
+              version="7">
               <properties>
                 <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
                   dataType="System.String"
-                  description="Specifies the SQL statement that generates the lookup table."
-                  expressionType="Notify"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Records_NDS]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[Date_dimension]</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
                 <property
                   dataType="System.String"
-                  description="Specifies a SQL statement that uses parameters to generate the lookup table."
-                  expressionType="Notify"
-                  name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[Date_dimension]) [refTable]
-where [refTable].[Date] = ?</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the type of connection used to access the reference dataset."
-                  name="ConnectionType"
-                  typeConverter="LookupConnectionType">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the cache type of the lookup table."
-                  name="CacheType"
-                  typeConverter="CacheType">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
-                  name="NoMatchBehavior"
-                  typeConverter="LookupNoMatchBehavior">1</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
-                  name="NoMatchCachePercentage">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="Maximum Memory Usage for Reference Cache on a 32 bit platform."
-                  name="MaxMemoryUsage">25</property>
-                <property
-                  dataType="System.Int64"
-                  description="Maximum Memory Usage for Reference Cache on a 64 bit platform."
-                  name="MaxMemoryUsage64">25</property>
-                <property
-                  dataType="System.String"
-                  description="Indicates whether to reference metadata in an XML format."
-                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="Date" dataType="DT_DBDATE" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="Year" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="Month" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="Day" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="Quarter" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
-                <property
-                  containsID="true"
-                  dataType="System.String"
-                  description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output].Columns[converted_date]};</property>
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
                   name="DefaultCodePage">1252</property>
                 <property
                   dataType="System.Boolean"
-                  description="Determines whether duplicate keys in the reference data should be treated as errors when full cache mode is used."
-                  name="TreatDuplicateKeysAsError">false</property>
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Date_DDS Flow\Lookup.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AQI_DDS.sa]"
-                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AQI_DDS.sa]"
-                  description="Connection manager used to access lookup data."
+                  refId="Package\Date_DDS Flow\OLE DB Source.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AQI_NDS.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AQI_NDS.sa]"
+                  description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
+              <outputs>
+                <output
+                  refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[SourceID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SourceID]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[SourceID]"
+                      name="SourceID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[RecordID_SK]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[RecordID_SK]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[RecordID_SK]"
+                      name="RecordID_SK"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CountyID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CountyID]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CountyID]"
+                      name="CountyID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Date]"
+                      dataType="dbDate"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Date]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Date]"
+                      name="Date"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[AQI]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AQI]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[AQI]"
+                      name="AQI"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryID]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]"
+                      name="CategoryID"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningParameter]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DefiningParameter]"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningParameter]"
+                      name="DefiningParameter"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningSite]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DefiningSite]"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningSite]"
+                      name="DefiningSite"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[NumberOfSitesReporting]"
+                      name="NumberOfSitesReporting"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Created]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Created]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Created]"
+                      name="Created"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[LastUpdated]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[LastUpdated]"
+                      name="LastUpdated"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedAtTable]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedAtTable]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedAtTable]"
+                      name="CreatedAtTable"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[UpdatedAtTable]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UpdatedAtTable]"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[UpdatedAtTable]"
+                      name="UpdatedAtTable"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[RecordID_SK]"
+                      dataType="i4"
+                      name="RecordID_SK" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CountyID]"
+                      dataType="i4"
+                      name="CountyID" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryID]"
+                      dataType="i4"
+                      name="CategoryID" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CreatedAtTable]"
+                      dataType="dbTimeStamp"
+                      name="CreatedAtTable" />
+                    <externalMetadataColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UpdatedAtTable]"
+                      dataType="dbTimeStamp"
+                      name="UpdatedAtTable" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[RecordID_SK]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[RecordID_SK]"
+                      name="RecordID_SK" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CountyID]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CountyID]"
+                      name="CountyID" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Date]"
+                      dataType="dbDate"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Date]"
+                      name="Date" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AQI]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[AQI]"
+                      name="AQI" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryID]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryID]"
+                      name="CategoryID" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DefiningParameter]"
+                      name="DefiningParameter" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[DefiningSite]"
+                      name="DefiningSite" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[NumberOfSitesReporting]"
+                      name="NumberOfSitesReporting" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SourceID]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SourceID]"
+                      name="SourceID" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Created]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Created]"
+                      name="Created" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[LastUpdated]"
+                      name="LastUpdated" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedAtTable]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CreatedAtTable]"
+                      name="CreatedAtTable" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UpdatedAtTable]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UpdatedAtTable]"
+                      name="UpdatedAtTable" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Date_DDS Flow\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">true</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
               <inputs>
                 <input
-                  refId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input]"
-                  name="Lookup Input">
+                  refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input].Columns[converted_date]"
-                      cachedDataType="dbDate"
-                      cachedName="converted_date"
-                      lineageId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output].Columns[converted_date]">
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[SourceID]">
                       <properties>
                         <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">Date</property>
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
                         <property
-                          dataType="System.Null"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn" />
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[RecordID_SK]"
+                      cachedDataType="i4"
+                      cachedName="RecordID_SK"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[RecordID_SK]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[CountyID]"
+                      cachedDataType="i4"
+                      cachedName="CountyID"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CountyID]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Date]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[AQI]"
+                      cachedDataType="i4"
+                      cachedName="AQI"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[AQI]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[CategoryID]"
+                      cachedDataType="i4"
+                      cachedName="CategoryID"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[DefiningParameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="DefiningParameter"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningParameter]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[DefiningSite]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="DefiningSite"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningSite]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[NumberOfSitesReporting]"
+                      cachedDataType="i4"
+                      cachedName="NumberOfSitesReporting"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[NumberOfSitesReporting]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Created]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[LastUpdated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="LastUpdated"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[LastUpdated]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[CreatedAtTable]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="CreatedAtTable"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedAtTable]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Date_DDS Flow\Sort.Inputs[Sort Input].Columns[UpdatedAtTable]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="UpdatedAtTable"
+                      lineageId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[UpdatedAtTable]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
@@ -4603,40 +4949,182 @@ where [refTable].[Date] = ?</property>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Match Output]"
-                  errorOrTruncationOperation="Lookup"
-                  exclusionGroup="1"
-                  name="Lookup Match Output"
-                  synchronousInputId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input]">
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Date_DDS Flow\Lookup.Outputs[Lookup No Match Output]"
-                  description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
-                  exclusionGroup="1"
-                  name="Lookup No Match Output"
-                  synchronousInputId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input]">
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Lookup Error Output"
-                  synchronousInputId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input]">
+                  refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[SourceID]"
                       dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[SourceID]"
+                      name="SourceID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[SourceID]}</property>
+                      </properties>
+                    </outputColumn>
                     <outputColumn
-                      refId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[RecordID_SK]"
                       dataType="i4"
-                      lineageId="Package\Date_DDS Flow\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[RecordID_SK]"
+                      name="RecordID_SK">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[RecordID_SK]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CountyID]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CountyID]"
+                      name="CountyID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CountyID]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]"
+                      dataType="dbDate"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Date]"
+                      name="Date"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Date]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[AQI]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[AQI]"
+                      name="AQI">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[AQI]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CategoryID]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CategoryID]"
+                      name="CategoryID">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[DefiningParameter]"
+                      name="DefiningParameter">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningParameter]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[DefiningSite]"
+                      name="DefiningSite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[DefiningSite]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[NumberOfSitesReporting]"
+                      name="NumberOfSitesReporting">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[NumberOfSitesReporting]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Created]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[Created]"
+                      name="Created">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[Created]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[LastUpdated]"
+                      name="LastUpdated">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[LastUpdated]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CreatedAtTable]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[CreatedAtTable]"
+                      name="CreatedAtTable">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[CreatedAtTable]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[UpdatedAtTable]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Date_DDS Flow\Sort.Outputs[Sort Output].Columns[UpdatedAtTable]"
+                      name="UpdatedAtTable">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output].Columns[UpdatedAtTable]}</property>
+                      </properties>
+                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -4645,22 +5133,102 @@ where [refTable].[Date] = ?</property>
           </components>
           <paths>
             <path
-              refId="Package\Date_DDS Flow.Paths[Data Conversion Output]"
-              endId="Package\Date_DDS Flow\Lookup.Inputs[Lookup Input]"
-              name="Data Conversion Output"
-              startId="Package\Date_DDS Flow\Data Conversion.Outputs[Data Conversion Output]" />
-            <path
-              refId="Package\Date_DDS Flow.Paths[Flat File Source Output]"
-              endId="Package\Date_DDS Flow\Data Conversion.Inputs[Data Conversion Input]"
-              name="Flat File Source Output"
-              startId="Package\Date_DDS Flow\Date Source.Outputs[Flat File Source Output]" />
-            <path
-              refId="Package\Date_DDS Flow.Paths[Lookup No Match Output]"
+              refId="Package\Date_DDS Flow.Paths[Derived Column Output]"
               endId="Package\Date_DDS Flow\Date_dimension.Inputs[OLE DB Destination Input]"
-              name="Lookup No Match Output"
-              startId="Package\Date_DDS Flow\Lookup.Outputs[Lookup No Match Output]" />
+              name="Derived Column Output"
+              startId="Package\Date_DDS Flow\Derived Column.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\Date_DDS Flow.Paths[OLE DB Source Output]"
+              endId="Package\Date_DDS Flow\Sort.Inputs[Sort Input]"
+              name="OLE DB Source Output"
+              startId="Package\Date_DDS Flow\OLE DB Source.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Date_DDS Flow.Paths[Sort Output]"
+              endId="Package\Date_DDS Flow\Derived Column.Inputs[Derived Column Input]"
+              name="Sort Output"
+              startId="Package\Date_DDS Flow\Sort.Outputs[Sort Output]" />
           </paths>
         </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert to Data_Definition"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{D2F317FC-7262-4A3A-A304-4FC36205E882}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert to Data_Definition"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{F346659F-9951-496F-901D-28D44D6FEFE6}"
+          SQLTask:SqlStatementSource="MERGE DataDefinition_Metadata AS target&#xA;USING (&#xA;    VALUES &#xA;        -- Date_dimension table&#xA;        ('Date_dimension', 'Date', 'DATE', 1, 0, 'Primary key for the date dimension'),&#xA;        ('Date_dimension', 'Year', 'INT', 0, 0, 'Year part of the date'),&#xA;        ('Date_dimension', 'Month', 'INT', 0, 0, 'Month part of the date'),&#xA;        ('Date_dimension', 'Day', 'INT', 0, 0, 'Day part of the date'),&#xA;        ('Date_dimension', 'Quarter', 'INT', 0, 0, 'Quarter of the year'),&#xA;&#xA;        -- AQI_Category_dimension table&#xA;        ('AQI_Category_dimension', 'AQICategory_SK', 'INT', 1, 0, 'Primary key for AQI categories'),&#xA;        ('AQI_Category_dimension', 'AQICategoryName', 'NVARCHAR(50)', 0, 1, 'Name of the AQI category'),&#xA;&#xA;        -- County_dimension table&#xA;        ('County_dimension', 'County_SK', 'INT', 1, 0, 'Primary key, surrogate key for counties'),&#xA;        ('County_dimension', 'CountyFIPS', 'NVARCHAR(50)', 0, 1, 'Federal Information Processing Standard (FIPS) code'),&#xA;        ('County_dimension', 'CountyASCII', 'NVARCHAR(50)', 0, 1, 'ASCII name of the county'),&#xA;        ('County_dimension', 'CountyName', 'NVARCHAR(50)', 0, 1, 'Short name of the county'),&#xA;        ('County_dimension', 'CountyCode', 'INT', 0, 1, 'Numeric code for the county'),&#xA;        ('County_dimension', 'Latitude', 'FLOAT', 0, 1, 'Latitude coordinate of the county'),&#xA;        ('County_dimension', 'Longitude', 'FLOAT', 0, 1, 'Longitude coordinate of the county'),&#xA;        ('County_dimension', 'Population', 'INT', 0, 1, 'Population of the county'),&#xA;        ('County_dimension', 'CountyFull', 'NVARCHAR(50)', 0, 1, 'Full name of the county'),&#xA;        ('County_dimension', 'StateID', 'NVARCHAR(2)', 0, 1, 'State identifier for the county'),&#xA;        ('County_dimension', 'StateName', 'NVARCHAR(50)', 0, 1, 'Name of the state'),&#xA;        ('County_dimension', 'StateCode', 'INT', 0, 1, 'Numeric state code'),&#xA;&#xA;        -- AQI_fact table&#xA;        ('AQI_fact', 'AQI_SK', 'INT', 1, 0, 'Primary key for AQI fact table'),&#xA;        ('AQI_fact', 'AQI', 'INT', 0, 1, 'Air Quality Index value'),&#xA;        ('AQI_fact', 'Category_SK', 'INT', 0, 0, 'Foreign key to AQI_Category_dimension'),&#xA;        ('AQI_fact', 'NumberOfSitesReportings', 'INT', 0, 1, 'Number of sites reporting AQI'),&#xA;        ('AQI_fact', 'County_SK', 'INT', 0, 0, 'Foreign key to County_dimension'),&#xA;        ('AQI_fact', 'Date', 'DATE', 0, 0, 'Foreign key to Date_dimension')&#xA;) AS source (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription)&#xA;ON target.TableName = source.TableName AND target.ColumnName = source.ColumnName&#xA;&#xA;WHEN MATCHED THEN &#xA;    UPDATE SET &#xA;        target.DataType = source.DataType,&#xA;        target.IsPrimaryKey = source.IsPrimaryKey,&#xA;        target.IsNullable = source.IsNullable,&#xA;        target.ColumnDescription = source.ColumnDescription,&#xA;        target.LastUpdated = GETDATE()&#xA;&#xA;WHEN NOT MATCHED BY TARGET THEN&#xA;    INSERT (TableName, ColumnName, DataType, IsPrimaryKey, IsNullable, ColumnDescription, Created, LastUpdated)&#xA;    VALUES (source.TableName, source.ColumnName, source.DataType, source.IsPrimaryKey, source.IsNullable, source.ColumnDescription, GETDATE(), GETDATE());&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert to Data_Flow"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{A0DA655F-741B-4D9F-B84A-A0B57AD6B16A}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert to Data_Flow"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{F346659F-9951-496F-901D-28D44D6FEFE6}"
+          SQLTask:SqlStatementSource="INSERT INTO Data_Flow (FlowName, Description, LSET, Status)&#xA;VALUES ('StageToNDS', 'ETL process from NDS to DDS', GETDATE(), 'In progress');&#xA;SELECT SCOPE_IDENTITY() AS DataFlowID;&#xA;"
+          SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:ResultBinding
+            SQLTask:ResultName="DataFlowID"
+            SQLTask:DtsVariableName="User::DataFlowID" />
+        </SQLTask:SqlTaskData>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert to TABLES"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{D8B0478C-EE64-45F5-9927-3912B7208FBE}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert to TABLES"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{F346659F-9951-496F-901D-28D44D6FEFE6}"
+          SQLTask:SqlStatementSource="MERGE TABLES AS target &#xA;USING (&#xA;    SELECT &#xA;        table_info.TableName, &#xA;        table_info.Description,&#xA;        ds.DataStoreID&#xA;    FROM Data_Store ds&#xA;    JOIN (&#xA;        VALUES &#xA;            ('Date_dimension', 'Date dimension with year, month, day, and quarter', 'DDS'),&#xA;            ('AQI_Category_dimension', 'Dimension table for AQI categories', 'DDS'),&#xA;            ('County_dimension', 'Dimension table for counties including geographical and state data', 'DDS'),&#xA;            ('AQI_fact', 'Fact table for AQI data, linking dimensions like date, county, and category', 'DDS')&#xA;    ) AS table_info (TableName, Description, DataStoreName)&#xA;    ON table_info.DataStoreName = ds.DataStoreName&#xA;) AS source&#xA;ON target.TableName = source.TableName&#xA;&#xA;WHEN MATCHED THEN&#xA;    UPDATE SET &#xA;        target.Description = source.Description,&#xA;        target.DataStoreID = source.DataStoreID&#xA;&#xA;WHEN NOT MATCHED BY TARGET THEN&#xA;    INSERT (TableName, Description, DataStoreID)&#xA;    VALUES (source.TableName, source.Description, source.DataStoreID);&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Update Data_Flow"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{0B2A4607-6AD1-4C51-A5D7-5C39D8A87B17}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Update Data_Flow"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{F346659F-9951-496F-901D-28D44D6FEFE6}"
+          SQLTask:SqlStatementSource="UPDATE Data_Flow&#xA;SET CET = GETDATE(), Status = 'Success'&#xA;WHERE DataFlowID = ?&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:ParameterBinding
+            SQLTask:ParameterName="0"
+            SQLTask:DtsVariableName="User::DataFlowID"
+            SQLTask:ParameterDirection="Input"
+            SQLTask:DataType="131"
+            SQLTask:ParameterSize="0" />
+        </SQLTask:SqlTaskData>
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -4668,11 +5236,11 @@ where [refTable].[Date] = ?</property>
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint]"
       DTS:CreationName=""
-      DTS:DTSID="{2187AF94-0261-4E20-89B0-2A199FAE94FD}"
+      DTS:DTSID="{ADE2042C-C191-44FA-9E96-71801AAEF224}"
       DTS:From="Package\Create DDS Tables"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint"
-      DTS:To="Package\County_DDS Flow" />
+      DTS:To="Package\Insert to Data_Definition" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
@@ -4697,6 +5265,38 @@ where [refTable].[Date] = ?</property>
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 3"
       DTS:To="Package\AQI_DDS Flow" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 4]"
+      DTS:CreationName=""
+      DTS:DTSID="{5BF7E32F-5469-4C3C-87F3-EA80DFA816AC}"
+      DTS:From="Package\Create DDS Tables"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 4"
+      DTS:To="Package\Insert to Data_Flow" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 5]"
+      DTS:CreationName=""
+      DTS:DTSID="{E40EF6EE-CD3F-40D0-98C5-92C660AD2DEC}"
+      DTS:From="Package\Insert to Data_Flow"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 5"
+      DTS:To="Package\County_DDS Flow" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
+      DTS:CreationName=""
+      DTS:DTSID="{4568C191-27B7-4F18-B618-C459B2EA98C3}"
+      DTS:From="Package\Insert to Data_Definition"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 6"
+      DTS:To="Package\Insert to TABLES" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 7]"
+      DTS:CreationName=""
+      DTS:DTSID="{7ABC7BEB-F16A-4B54-8560-A3A06DEE5DD4}"
+      DTS:From="Package\AQI_DDS Flow"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 7"
+      DTS:To="Package\Update Data_Flow" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -4709,41 +5309,57 @@ where [refTable].[Date] = ?</property>
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="148,41.6"
           Id="Package\AQI_DDS Flow"
-          TopLeft="374.428571953153,394.329411489887" />
+          TopLeft="475.857143597638,396.035293844839" />
         <NodeLayout
           Size="172,41.6"
           Id="Package\Category_DDS Flow"
-          TopLeft="355.142857626385,302.564705687969" />
+          TopLeft="456.57142927087,304.270588042921" />
         <NodeLayout
           Size="162.4,41.6"
           Id="Package\County_DDS Flow"
-          TopLeft="64.2142855667947,214.770588122685" />
+          TopLeft="165.642857211281,216.476470477637" />
         <NodeLayout
           Size="166.4,41.6"
           Id="Package\Create DDS Tables"
-          TopLeft="61.5714284300197,109.858823503941" />
+          TopLeft="168.714285800956,31.2823529123542" />
         <NodeLayout
           Size="152,41.6"
           Id="Package\Date_DDS Flow"
-          TopLeft="358.714286205416,213.094117531098" />
+          TopLeft="460.142857849901,214.79999988605" />
+        <NodeLayout
+          Size="194.4,41.6"
+          Id="Package\Insert to Data_Definition"
+          TopLeft="455.000000968576,34.4470587940365" />
+        <NodeLayout
+          Size="172,41.6"
+          Id="Package\Insert to Data_Flow"
+          TopLeft="167.857143214466,121.176470534612" />
+        <NodeLayout
+          Size="158.4,41.6"
+          Id="Package\Insert to TABLES"
+          TopLeft="737.857144385272,39.799999965815" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\Update Data_Flow"
+          TopLeft="716.971429973354,399.576470352292" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="145.092856998407,151.458823503941">
+          TopLeft="335.114285800956,53.6647058531954">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,63.311764618744"
+              EndConnector="119.88571516762,0"
               Start="0,0"
-              End="0,55.811764618744">
+              End="112.38571516762,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.811764618744" />
+                    End="112.38571516762,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4754,18 +5370,18 @@ where [refTable].[Date] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="226.614285566795,234.732352826892">
+          TopLeft="328.04285721128,236.438235181844">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="132.100000638622,0"
+              EndConnector="132.100000638621,0"
               Start="0,0"
-              End="124.600000638622,0">
+              End="124.600000638621,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="124.600000638622,0" />
+                    End="124.600000638621,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4776,18 +5392,18 @@ where [refTable].[Date] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="437.928571915901,254.694117531098">
+          TopLeft="539.357143560386,256.39999988605">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,47.8705881568704"
+              EndConnector="0,47.870588156871"
               Start="0,0"
-              End="0,40.3705881568704">
+              End="0,40.370588156871">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,40.3705881568704" />
+                    End="0,40.370588156871" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4798,7 +5414,7 @@ where [refTable].[Date] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="444.785714789769,344.164705687969">
+          TopLeft="546.214286434254,345.870588042921">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -4810,6 +5426,94 @@ where [refTable].[Date] = ?</property>
                   Capacity="5">
                   <mssgle:LineSegment
                     End="0,42.6647058019183" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="252.885714507711,72.8823529123542">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,48.2941176222576"
+              Start="0,0"
+              End="0,40.7941176222576">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,40.7941176222576" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 5]"
+          TopLeft="250.350000212873,162.776470534612">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,53.6999999430253"
+              Start="0,0"
+              End="0,46.1999999430253">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,46.1999999430253" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 6]"
+          TopLeft="649.400000968576,57.9235293799257">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="88.4571434166969,0"
+              Start="0,0"
+              End="80.9571434166969,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="80.9571434166969,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 7]"
+          TopLeft="623.857143597638,418.605882098565">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="93.1142863757161,0"
+              Start="0,0"
+              End="85.6142863757161,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="85.6142863757161,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5204,7 +5908,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5239,7 +5945,7 @@ where [refTable].[Date] = ?</property>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-115.006383855598,65.3764711481888,111.6127734375,11.609375"
+              BoundingBox="-75.2063838555983,65.3764711481888,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -5375,7 +6081,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5397,7 +6105,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5419,7 +6129,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5501,7 +6213,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5535,7 +6249,9 @@ where [refTable].[Date] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -5607,61 +6323,59 @@ where [refTable].[Date] = ?</property>
     design-time-name="Package\Date_DDS Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="154.4,41.6"
           Id="Package\Date_DDS Flow\Date_dimension"
-          TopLeft="267.714279863907,315.999996385154" />
+          TopLeft="273.428565590357,255.588231732225" />
         <NodeLayout
-          Size="136,41.6"
-          Id="Package\Date_DDS Flow\Date Source"
-          TopLeft="270.571422301385,9.05882197876262" />
+          Size="149.6,41.6"
+          Id="Package\Date_DDS Flow\OLE DB Source"
+          TopLeft="270.714286290565,7.64705881682647" />
         <NodeLayout
-          Size="112.8,41.6"
-          Id="Package\Date_DDS Flow\Lookup"
-          TopLeft="284.285714890884,198.823529237489" />
-        <NodeLayout
-          Size="155.2,41.6"
-          Id="Package\Date_DDS Flow\Data Conversion"
-          TopLeft="267.142857711534,103.99999990884" />
+          Size="97.6,41.6"
+          Id="Package\Date_DDS Flow\Sort"
+          TopLeft="302.14285778604,98.6470587370615" />
         <EdgeLayout
-          Id="Package\Date_DDS Flow.Paths[Lookup No Match Output]"
-          TopLeft="342.799997377395,240.423529237489">
+          Id="Package\Date_DDS Flow.Paths[OLE DB Source Output]"
+          TopLeft="348.228572038303,49.2470588168265">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,75.5764671476652"
+              EndConnector="0,49.399999920235"
               Start="0,0"
-              End="0,68.0764671476652">
+              End="0,41.899999920235">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,68.0764671476652" />
+                    End="0,41.899999920235" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-55.80638671875,28.2335460738326,111.6127734375,11.609375"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\Date_DDS Flow\Derived Column"
+          TopLeft="277.142857732822,173.399999920235" />
         <EdgeLayout
-          Id="Package\Date_DDS Flow.Paths[Flat File Source Output]"
-          TopLeft="341.657140006459,50.6588219787626">
+          Id="Package\Date_DDS Flow.Paths[Sort Output]"
+          TopLeft="352.242857759431,140.247058737061">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,53.3411779300777"
+              EndConnector="0,33.1529411831735"
               Start="0,0"
-              End="0,45.8411779300777">
+              End="0,25.6529411831735">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,45.8411779300777" />
+                    End="0,25.6529411831735" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5671,19 +6385,19 @@ where [refTable].[Date] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Date_DDS Flow.Paths[Data Conversion Output]"
-          TopLeft="342.714286301209,145.59999990884">
+          Id="Package\Date_DDS Flow.Paths[Derived Column Output]"
+          TopLeft="352.085711661589,214.999999920235">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,53.2235293286486"
+              EndConnector="0,40.58823181199"
               Start="0,0"
-              End="0,45.7235293286486">
+              End="0,33.08823181199">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,45.7235293286486" />
+                    End="0,33.08823181199" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5709,25 +6423,15 @@ where [refTable].[Date] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Date_DDS Flow\Lookup">
+    design-time-name="Package\Date_DDS Flow\OLE DB Source">
     <Properties>
       <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:string">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[Date_dimension]</Value>
+        <Name>DataSourceViewID</Name>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>

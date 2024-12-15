@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="SourceToStage"
   DTS:PackageType="5"
-  DTS:VersionBuild="137"
-  DTS:VersionGUID="{7B9BFB7F-E5B0-42B3-97C6-F4FB20D1DE75}">
+  DTS:VersionBuild="142"
+  DTS:VersionGUID="{1E919ED1-5B05-401E-B6D5-A8BD7C98E7A7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -394,7 +394,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABUgsqC7ODnXpXXNeQvJoHkqWl7nYUTI5dC3KgpxfMKUQAAAAAOgAAAAAIAACAAAAAD/Rt7CI0vd4PntsXyjEuV8HEHdLUvJZrMWVA2gbkS0SAAAAAAT3IxPe/pgkPpe7X40/FY96d/kIpsEuHZQbP0RyEyKkAAAABJI41Yu5KmTfrV9Xao+TmqnNcGkbD0zOXQOaDfjENcwGIiHRAhohXF9HMzl+69B9axEqVGEFQ7MKojBocXuB/s</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABfQKvs4o2+CVe0TSHBBr1h6t3dh8d0mJjU0gJz5nhLvAAAAAAOgAAAAAIAACAAAADDoIY3DA5PsOeSM2w3RvZOw6QA3AVJ+al2zns9G/hGDyAAAADJTOr67OQjVZxU2zjRlATrAH4cjEzqFkpyQzzMsAvFVUAAAADQANdFXPGB2+E43EjEPrAZF9111RVr+SvP50Mj+u2kFQwy8fN0NxQsFWFdSzRf8xcHIey/Mt055j+qIgLoE2YJ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -411,7 +411,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABioWc04hR7+6jL2a4OoUMOh/9vws0vfpLEB6AfZ7C/3wAAAAAOgAAAAAIAACAAAAB8G6XdsDmEiWIQYpIApW1v53JoakZQwTv4KWd3yGRZSiAAAADkIbkmVIl8BxwOWsBFZXfAjycwYKqvjFe8cNe/glqFfEAAAABQRaYit+RM/qKCr/z0xms1yWmxvyExnjnNLC5WC1DtkfSbs4R877c8x3G4lni8TtNIq7lasd9TA1Gg/HMnE2ix</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACns/Ajss2qTK/pK9CTGZb8ZXJ6/Yqy3IKymMCA2zx1xgAAAAAOgAAAAAIAACAAAABt9YI/WCUvFMwWVDCTc4sd4gUfRv7a+kh6qRrjiCWK9SAAAADJp9PcAG8RG7p2wsZWpss8p8mQJt5x4C+NbG12WnqurUAAAABr3VRb6yxsXig0pZW5xhKajIGy+/XatJjB3F5p5hNmMNFaas0gEV6UboDkAamJ1VIXRmTrVY1E0LXgZa2fKU5J</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -428,7 +428,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB/jy1pmC4sG6SRe+/+TRWVCGtKtqmwD74xkGCkmG+gkQAAAAAOgAAAAAIAACAAAADcpOCyjLGKC4akHUrnfXIbTK5kvgmia1J2oWOv+deGUSAAAAB1TEMq4Z4PN8Dl00YHSDnGJrN+4acScGCUO6ZPMM2yN0AAAAD9sjH70YDpNRKwn9gRiiNu1u/tLrRI4mVZAjExNX99pZ9KD1eXgdAhRCl6dZMTx37OEflcNv9FD7MSK4I5eJri</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMXgwusSB/0mK7yiCrigDMwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACBeus5is8EPhMLPEdhBsGMU/m2eg25AuFO5e2SXgAgagAAAAAOgAAAAAIAACAAAAA1XltCQOPGisSz9+wpKuj3QdPyosCgmWw1EC86czBjgCAAAADbQxhnpeYyD0jfVDHZKPsLd85Xjn/htRhnG/aKK3Xd50AAAADAu3hkAXNdlQRnP/T1j/w/JpNGoClICD8tNczciUXj8SCFn8UFYo131Q+AO3qr/CyiVyaFj9SI+iufMI2tfXgj</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1988,6 +1988,241 @@
               </outputs>
             </component>
             <component
+              refId="Package\AQI Flow\Classify AQI category"
+              componentClassID="Microsoft.ConditionalSplit"
+              contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
+              name="Classify AQI category"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  description="Input to the Conditional Split Transformation"
+                  name="Conditional Split Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 1]"
+                  description="Output 1 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 1"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Moderate" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 51 &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &lt;= 100</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Moderate" &amp;&amp; AQI &gt;= 51 &amp;&amp; AQI &lt;= 100</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">0</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 2]"
+                  description="Output 2 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 2"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Good" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 0 &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &lt;= 50</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Good" &amp;&amp; AQI &gt;= 0 &amp;&amp; AQI &lt;= 50</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">1</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 3]"
+                  description="Output 3 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 3"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Unhealthy for Sensitive Groups" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 101 &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &lt;= 150</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Unhealthy for Sensitive Groups" &amp;&amp; AQI &gt;= 101 &amp;&amp; AQI &lt;= 150</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">2</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 4]"
+                  description="Output 4 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 4"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Unhealthy" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 151 &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &lt;= 200</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Unhealthy" &amp;&amp; AQI &gt;= 151 &amp;&amp; AQI &lt;= 200</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">3</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 5]"
+                  description="Output 5 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 5"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Very Unhealthy" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 201 &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &lt;= 300</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Very Unhealthy" &amp;&amp; AQI &gt;= 201 &amp;&amp; AQI &lt;= 300</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">4</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Case 6]"
+                  description="Output 6 of the Conditional Split Transformation"
+                  errorOrTruncationOperation="Computation"
+                  errorRowDisposition="FailComponent"
+                  exclusionGroup="1"
+                  name="Case 6"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
+                  truncationRowDisposition="FailComponent">
+                  <properties>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                      name="Expression">#{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]} == "Hazardous" &amp;&amp; #{Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]} &gt;= 301</property>
+                    <property
+                      containsID="true"
+                      dataType="System.String"
+                      description="Specifies the friendly version of the expression. This expression version uses column names."
+                      expressionType="Notify"
+                      name="FriendlyExpression">Category == "Hazardous" &amp;&amp; AQI &gt;= 301</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                      name="EvaluationOrder">5</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Default Output]"
+                  description="Default Output of the Conditional Split Transformation"
+                  exclusionGroup="1"
+                  name="Conditional Split Default Output"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      name="IsDefaultOut">true</property>
+                  </properties>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Error Output]"
+                  description="Error Output of the Conditional Split Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Conditional Split Error Output"
+                  synchronousInputId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\Classify AQI category.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\AQI Flow\Create SourceID and SourceName"
               componentClassID="Microsoft.DerivedColumn"
               contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -2346,6 +2581,1296 @@
                       refId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
                       dataType="i4"
                       lineageId="Package\AQI Flow\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Stage]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\AQI Flow\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Created]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[county Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      cachedSortKeyPosition="3"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[County Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Parameter]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Number of Sites Reporting]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Site"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Site]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      dataType="wstr"
+                      length="50"
+                      name="StateName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CountyName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      dataType="i4"
+                      name="StateCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      dataType="i4"
+                      name="CountyCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      dataType="wstr"
+                      length="50"
+                      name="Category" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\OLE DB Destination 1"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination 1"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Stage]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\AQI Flow\OLE DB Destination 1.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Created]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[county Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      cachedSortKeyPosition="3"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[County Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Parameter]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Site"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Site]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Number of Sites Reporting]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      dataType="wstr"
+                      length="50"
+                      name="StateName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CountyName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      dataType="i4"
+                      name="StateCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      dataType="i4"
+                      name="CountyCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      dataType="wstr"
+                      length="50"
+                      name="Category" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\OLE DB Destination 1.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\OLE DB Destination 2"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination 2"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Stage]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\AQI Flow\OLE DB Destination 2.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Created]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[county Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      cachedSortKeyPosition="3"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[County Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Parameter]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Site"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Site]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Number of Sites Reporting]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      dataType="wstr"
+                      length="50"
+                      name="StateName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CountyName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      dataType="i4"
+                      name="StateCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      dataType="i4"
+                      name="CountyCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      dataType="wstr"
+                      length="50"
+                      name="Category" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\OLE DB Destination 2.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 2.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 2.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 2.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\OLE DB Destination 3"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination 3"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Stage]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\AQI Flow\OLE DB Destination 3.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Created]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[county Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      cachedSortKeyPosition="3"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[County Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Parameter]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Site"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Site]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Number of Sites Reporting]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      dataType="wstr"
+                      length="50"
+                      name="StateName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CountyName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      dataType="i4"
+                      name="StateCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      dataType="i4"
+                      name="CountyCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      dataType="wstr"
+                      length="50"
+                      name="Category" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\OLE DB Destination 3.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 3.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 3.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 3.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\AQI Flow\OLE DB Destination 4"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination 4"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[AQI_Stage]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\AQI Flow\OLE DB Destination 4.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[LAPTOP-MDA5KT8P\SQLSERVER.AirQuality_Stage.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Date]"
+                      cachedDataType="dbDate"
+                      cachedName="Date"
+                      cachedSortKeyPosition="1"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[AQI]"
+                      cachedDataType="ui4"
+                      cachedName="AQI"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[AQI]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Category]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Category"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Category]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Created]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Created"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Created]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[SourceID]"
+                      cachedDataType="i4"
+                      cachedName="SourceID"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceID]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[SourceName]"
+                      cachedDataType="wstr"
+                      cachedLength="17"
+                      cachedName="SourceName"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[SourceName]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[State Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="State Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[county Name]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="county Name"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[county Name]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[State Code]"
+                      cachedDataType="ui4"
+                      cachedName="State Code"
+                      cachedSortKeyPosition="3"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[State Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[County Code]"
+                      cachedDataType="ui4"
+                      cachedName="County Code"
+                      cachedSortKeyPosition="2"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[County Code]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Defining Parameter]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Parameter"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Parameter]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Defining Site]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Defining Site"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Defining Site]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Number of Sites Reporting]"
+                      cachedDataType="ui4"
+                      cachedName="Number of Sites Reporting"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Number of Sites Reporting]" />
+                    <inputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].Columns[Last Updated]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Last Updated"
+                      externalMetadataColumnId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      lineageId="Package\AQI Flow\Sort.Outputs[Sort Output].Columns[Last Updated]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[StateName]"
+                      dataType="wstr"
+                      length="50"
+                      name="StateName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[CountyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CountyName" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[StateCode]"
+                      dataType="i4"
+                      name="StateCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[CountyCode]"
+                      dataType="i4"
+                      name="CountyCode" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
+                      dataType="dbDate"
+                      name="Date" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[AQI]"
+                      dataType="i4"
+                      name="AQI" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Category]"
+                      dataType="wstr"
+                      length="50"
+                      name="Category" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[DefiningParameter]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningParameter" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[DefiningSite]"
+                      dataType="wstr"
+                      length="50"
+                      name="DefiningSite" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[NumberOfSitesReporting]"
+                      dataType="i4"
+                      name="NumberOfSitesReporting" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[Created]"
+                      dataType="dbTimeStamp"
+                      name="Created" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[LastUpdated]"
+                      dataType="dbTimeStamp"
+                      name="LastUpdated" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[SourceID]"
+                      dataType="i4"
+                      name="SourceID" />
+                    <externalMetadataColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input].ExternalColumns[SourceName]"
+                      dataType="wstr"
+                      length="255"
+                      name="SourceName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\AQI Flow\OLE DB Destination 4.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 4.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\AQI Flow\OLE DB Destination 4.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\AQI Flow\OLE DB Destination 4.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -3491,6 +5016,36 @@
           </components>
           <paths>
             <path
+              refId="Package\AQI Flow.Paths[Case 1]"
+              endId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input]"
+              name="Case 1"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 1]" />
+            <path
+              refId="Package\AQI Flow.Paths[Case 2]"
+              endId="Package\AQI Flow\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Case 2"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 2]" />
+            <path
+              refId="Package\AQI Flow.Paths[Case 3]"
+              endId="Package\AQI Flow\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
+              name="Case 3"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 3]" />
+            <path
+              refId="Package\AQI Flow.Paths[Case 4]"
+              endId="Package\AQI Flow\OLE DB Destination 2.Inputs[OLE DB Destination Input]"
+              name="Case 4"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 4]" />
+            <path
+              refId="Package\AQI Flow.Paths[Case 5]"
+              endId="Package\AQI Flow\OLE DB Destination 3.Inputs[OLE DB Destination Input]"
+              name="Case 5"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 5]" />
+            <path
+              refId="Package\AQI Flow.Paths[Case 6]"
+              endId="Package\AQI Flow\OLE DB Destination 4.Inputs[OLE DB Destination Input]"
+              name="Case 6"
+              startId="Package\AQI Flow\Classify AQI category.Outputs[Case 6]" />
+            <path
               refId="Package\AQI Flow.Paths[Data Conversion Output]"
               endId="Package\AQI Flow\Create SourceID and SourceName 1.Inputs[Derived Column Input]"
               name="Data Conversion Output"
@@ -3527,7 +5082,7 @@
               startId="Package\AQI Flow\AQI_2023 Source.Outputs[Flat File Source Output]" />
             <path
               refId="Package\AQI Flow.Paths[Sort Output]"
-              endId="Package\AQI Flow\AQI_Stage Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\AQI Flow\Classify AQI category.Inputs[Conditional Split Input]"
               name="Sort Output"
               startId="Package\AQI Flow\Sort.Outputs[Sort Output]" />
             <path
@@ -5033,83 +6588,229 @@
     design-time-name="Package\AQI Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="120,41.6"
           Id="Package\AQI Flow\Union All"
-          TopLeft="589.178562907617,285.411762492261" />
+          TopLeft="625.607134413735,285.411762492261" />
         <NodeLayout
-          Size="156,41.6"
-          Id="Package\AQI Flow\Data Conversion"
-          TopLeft="566.071431791649,75.5725475044971" />
+          Size="178.4,41.6"
+          Id="Package\AQI Flow\Classify AQI category"
+          TopLeft="362.85714362957,377.45882334441" />
         <NodeLayout
           Size="239.2,41.6"
           Id="Package\AQI Flow\Create SourceID and SourceName"
-          TopLeft="247.700000324633,158.60294114614" />
+          TopLeft="284.128571830751,158.60294114614" />
         <NodeLayout
-          Size="248,41.6"
-          Id="Package\AQI Flow\Create SourceID and SourceName 2"
-          TopLeft="818.892858698736,149.561764678567" />
+          Size="156,41.6"
+          Id="Package\AQI Flow\Data Conversion"
+          TopLeft="602.500003297767,75.5725475044971" />
         <NodeLayout
-          Size="97.6,41.6"
-          Id="Package\AQI Flow\Sort"
-          TopLeft="599.321419935825,359.632348355447" />
-        <NodeLayout
-          Size="160.8,41.6"
-          Id="Package\AQI Flow\AQI_2022 Source"
-          TopLeft="569.690468057568,0.384313006874468" />
-        <NodeLayout
-          Size="160.8,41.6"
-          Id="Package\AQI Flow\AQI_2023 Source"
-          TopLeft="860.495226694397,52.6098027552919" />
-        <NodeLayout
-          Size="248,41.6"
-          Id="Package\AQI Flow\Create SourceID and SourceName 1"
-          TopLeft="521.614286615197,152.464705853196" />
+          Size="179.2,41.6"
+          Id="Package\AQI Flow\OLE DB Destination 3"
+          TopLeft="1027.28571458222,504.305882161237" />
         <NodeLayout
           Size="184,41.6"
           Id="Package\AQI Flow\AQI_Stage Destination"
-          TopLeft="559.880944395569,453.794111523972" />
+          TopLeft="351.309515380146,504.264699715027" />
+        <NodeLayout
+          Size="97.6,41.6"
+          Id="Package\AQI Flow\Sort"
+          TopLeft="635.749991441943,361.161760118812" />
+        <NodeLayout
+          Size="160.8,41.6"
+          Id="Package\AQI Flow\AQI_2022 Source"
+          TopLeft="606.119039563686,0.384313006874468" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\AQI Flow\OLE DB Destination 2"
+          TopLeft="128.57142863225,509.99999979489" />
+        <NodeLayout
+          Size="248,41.6"
+          Id="Package\AQI Flow\Create SourceID and SourceName 2"
+          TopLeft="855.321430204854,149.561764678567" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\AQI Flow\OLE DB Destination 1"
+          TopLeft="796.600001692346,500.764705653783" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\AQI Flow\OLE DB Destination 4"
+          TopLeft="965.571429834986,380.035294027157" />
+        <NodeLayout
+          Size="160.8,41.6"
+          Id="Package\AQI Flow\AQI_2023 Source"
+          TopLeft="896.923798200515,52.6098027552919" />
+        <NodeLayout
+          Size="248,41.6"
+          Id="Package\AQI Flow\Create SourceID and SourceName 1"
+          TopLeft="558.042858121315,152.464705853196" />
         <NodeLayout
           Size="160.8,41.6"
           Id="Package\AQI Flow\AQI_2021 Source"
-          TopLeft="283.749995069313,50.4705870901219" />
+          TopLeft="320.178566575431,50.4705870901219" />
+        <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\AQI Flow\OLE DB Destination"
+          TopLeft="570.171429781768,508.27058799734" />
         <EdgeLayout
-          Id="Package\AQI Flow.Paths[Data Conversion Output]"
-          TopLeft="644.842859203423,117.172547504497">
+          Id="Package\AQI Flow.Paths[Case 4]"
+          TopLeft="395.25714362957,419.05882334441">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,35.2921583486985"
+              EndConnector="-177.08571499732,90.94117645048"
               Start="0,0"
-              End="0,27.7921583486985">
+              End="-177.08571499732,83.44117645048">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,27.7921583486985" />
+                    End="0,20.231037146345" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.231037146345"
+                    Point2="0,24.231037146345"
+                    Point3="-4,24.231037146345" />
+                  <mssgle:LineSegment
+                    End="-173.08571499732,24.231037146345" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-173.08571499732,24.231037146345"
+                    Point2="-177.08571499732,24.231037146345"
+                    Point3="-177.08571499732,28.231037146345" />
+                  <mssgle:LineSegment
+                    End="-177.08571499732,83.44117645048" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-104.04170515491,29.231037146345,30.9976953125,9.5537109375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AQI Flow.Paths[Union All Output 1]"
-          TopLeft="648.649991421721,327.011762492261">
+          Id="Package\AQI Flow.Paths[Case 3]"
+          TopLeft="480.45714362957,419.05882334441">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,32.6205858631855"
+              EndConnector="405.742858062776,81.705882309373"
               Start="0,0"
-              End="0,25.1205858631855">
+              End="405.742858062776,74.205882309373">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.1205858631855" />
+                    End="0,29.1181176293992" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,29.1181176293992"
+                    Point2="0,33.1181176293992"
+                    Point3="4,33.1181176293992" />
+                  <mssgle:LineSegment
+                    End="401.742858062776,33.1181176293992" />
+                  <mssgle:CubicBezierSegment
+                    Point1="401.742858062776,33.1181176293992"
+                    Point2="405.742858062776,33.1181176293992"
+                    Point3="405.742858062776,37.1181176293992" />
+                  <mssgle:LineSegment
+                    End="405.742858062776,74.205882309373" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="187.531272781388,38.1181176293992,30.6803125,9.5732421875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Case 2]"
+          TopLeft="452.05714362957,419.05882334441">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="203.314286152198,89.21176465293"
+              Start="0,0"
+              End="203.314286152198,81.71176465293">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,40.605882326465" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,40.605882326465"
+                    Point2="0,44.605882326465"
+                    Point3="4,44.605882326465" />
+                  <mssgle:LineSegment
+                    End="199.314286152198,44.605882326465" />
+                  <mssgle:CubicBezierSegment
+                    Point1="199.314286152198,44.605882326465"
+                    Point2="203.314286152198,44.605882326465"
+                    Point3="203.314286152198,48.605882326465" />
+                  <mssgle:LineSegment
+                    End="203.314286152198,81.71176465293" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="86.253510263599,49.605882326465,30.807265625,9.5732421875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Case 1]"
+          TopLeft="423.65714362957,419.05882334441">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="19.652371750576,85.205876370617"
+              Start="0,0"
+              End="19.652371750576,77.705876370617">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.5367818888901" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,30.5367818888901"
+                    Point2="0,34.5367818888901"
+                    Point3="4,34.5367818888901" />
+                  <mssgle:LineSegment
+                    End="15.652371750576,34.5367818888901" />
+                  <mssgle:CubicBezierSegment
+                    Point1="15.652371750576,34.5367818888901"
+                    Point2="19.652371750576,34.5367818888901"
+                    Point3="19.652371750576,38.5367818888901" />
+                  <mssgle:LineSegment
+                    End="19.652371750576,77.705876370617" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-5.39190006221198,39.5367818888901,30.436171875,9.5537109375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Union All Output 1]"
+          TopLeft="685.078562927839,327.011762492261">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,34.1499976265512"
+              Start="0,0"
+              End="0,26.6499976265512">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.6499976265512" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5120,18 +6821,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Sort Output]"
-          TopLeft="650.001182165697,401.232348355447">
+          TopLeft="635.749991441943,381.961760118812">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,52.5617631685251"
+              EndConnector="-94.492847812373,10.697063225598"
               Start="0,0"
-              End="0,45.0617631685251">
+              End="-86.992847812373,10.697063225598">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,45.0617631685251" />
+                    End="-50.5958676249267,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-50.5958676249267,0"
+                    Point2="-54.5958676249267,0"
+                    Point3="-54.5958676249267,4" />
+                  <mssgle:LineSegment
+                    End="-54.5958676249267,6.69706322559796" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-54.5958676249267,6.69706322559796"
+                    Point2="-54.5958676249267,10.697063225598"
+                    Point3="-58.5958676249267,10.697063225598" />
+                  <mssgle:LineSegment
+                    End="-86.992847812373,10.697063225598" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5142,7 +6855,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output2]"
-          TopLeft="941.894042696566,94.2098027552919">
+          TopLeft="978.322614202684,94.2098027552919">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5164,7 +6877,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output1]"
-          TopLeft="365.724997696973,92.0705870901219">
+          TopLeft="402.153569203091,92.0705870901219">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5186,7 +6899,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Flat File Source Output]"
-          TopLeft="647.080949924609,41.9843130068745">
+          TopLeft="683.509521430727,41.9843130068745">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5208,7 +6921,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output2]"
-          TopLeft="942.892858698736,191.161764678567">
+          TopLeft="979.321430204854,191.161764678567">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5242,7 +6955,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output1]"
-          TopLeft="367.300000324633,200.20294114614">
+          TopLeft="403.728571830751,200.20294114614">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5276,7 +6989,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\AQI Flow.Paths[Derived Column Output]"
-          TopLeft="647.396424761407,194.064705853196">
+          TopLeft="683.824996267525,194.064705853196">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5296,6 +7009,88 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Data Conversion Output]"
+          TopLeft="681.271430709541,117.172547504497">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35.2921583486985"
+              Start="0,0"
+              End="0,27.7921583486985">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.7921583486985" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Case 6]"
+          TopLeft="541.25714362957,402.347058685784">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="424.314286205416,0"
+              Start="0,0"
+              End="416.814286205416,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="416.814286205416,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="192.947357946458,5,30.9195703125,9.55859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AQI Flow.Paths[Case 5]"
+          TopLeft="508.85714362957,419.05882334441">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="608.02857095265,85.247058816827"
+              Start="0,0"
+              End="608.02857095265,77.747058816827">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.7138544873782" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,18.7138544873782"
+                    Point2="0,22.7138544873782"
+                    Point3="4,22.7138544873782" />
+                  <mssgle:LineSegment
+                    End="604.02857095265,22.7138544873782" />
+                  <mssgle:CubicBezierSegment
+                    Point1="604.02857095265,22.7138544873782"
+                    Point2="608.02857095265,22.7138544873782"
+                    Point3="608.02857095265,26.7138544873782" />
+                  <mssgle:LineSegment
+                    End="608.02857095265,77.747058816827" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="288.652156570075,27.7138544873782,30.7242578125,9.5537109375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -5312,7 +7107,72 @@
     </LayoutInfo>
   </DtsEventHandler>
   <PipelineComponentMetadata
+    design-time-name="Package\AQI Flow\OLE DB Destination 3">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\AQI Flow\AQI_Stage Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\AQI Flow\OLE DB Destination 2">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\AQI Flow\OLE DB Destination 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\AQI Flow\OLE DB Destination 4">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\AQI Flow\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -5328,7 +7188,7 @@
     design-time-name="Package\USCounties Flow">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="220.8,41.6"
           Id="Package\USCounties Flow\USCounties_Stage Destination"
@@ -5360,7 +7220,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5382,7 +7244,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
